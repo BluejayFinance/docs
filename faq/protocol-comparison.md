@@ -4,7 +4,7 @@ For DeFi users familiar with other protocols like OlympusDAO, MakerDAO, etc, thi
 
 ### vs OlympusDAO
 
-Bluejay Finance's protocol-owned liquidity (POL) is inspired by the success of [OlympusDAO](https://www.olympusdao.finance). In addition, Bluejay makes use of existing bonding mechanics from Olympus for the treasury bond where the bonds are priced as a function of the debt ratio and a control variable. However, Bluejay introduces significant changes to how the treasury is used by deploying them as operational capital for a stablecoin issuer.
+Bluejay Finance's protocol-owned liquidity (POL) is inspired by the success of [OlympusDAO](https://www.olympusdao.finance), allowing for a more predictable supply of liquidity for our stablecoins users. In addition, Bluejay makes use of existing bonding mechanics from Olympus for the treasury bond where the bonds are priced as a function of the debt ratio and a control variable. However, Bluejay introduces significant changes to how the treasury is used by deploying them as operational capital for a stablecoin issuer.
 
 **Similarities**
 

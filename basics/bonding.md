@@ -1,14 +1,12 @@
 # Bonding
 
-Bonding is a process to allow Bluejay to acquire its own liquidity and reserve assets (ie DAI) and bring stablecoins to the peg by selling BLU at a discount. There are two main types of bonds on Bluejay, treasury bonds, and stabilizing bonds. For both types of bonds, the user exchanges either a reserve asset (ie DAI) or a liquidity token (ie BLU/DAI LP) in exchange for a BLU bond.
-
-### BLU bond
+Bonding is a process to allow Bluejay to acquire its own liquidity and reserve assets (ie DAI) and bring stablecoins to the peg by selling BLU at a discount. There are two main types of bonds on Bluejay, treasury bonds, and stabilizing bonds. For both types of bonds, the user gets discounted BLU after a fixed vesting period. The only difference is that treasury bonds raise assets for the treasury directly while stabilizing bonds help to peg issued stablecoins to their prices.
 
 When bonders purchase a bond from the protocol, they will be quoted the term of the bond such as the discounted BLU price, the vesting period, and the amount of BLU claimable when the bond matures. The bond will vest linearly over the vesting period, allowing the bonder to claim any vested BLU as it matures, and the full amount when the entire period is up.
 
 ### Treasury Bonds
 
-The objective of these bonds is to allow the protocol to acquire its own liquidity which in turn will be used productively for minting and backing stablecoins. This creates a predictable supply of liquidity for Bluejay stablecoins' users and in turn generates revenue for the protocol through the collection of swap fees.
+The objective of these bonds is to allow the protocol to acquire its own liquidity which in turn will be used productively for minting and backing stablecoins. This creates a predictable supply of liquidity for Bluejay stablecoins' users.
 
 To do so, the protocol quotes bonds for reserve assets like `DAI` or liquidity tokens like `SGD-T/DAI LP`, in exchange for discounted BLU vested over a period of time. These assets will be transferred to the treasury directly to be used as operating capital for the stablecoins.
 

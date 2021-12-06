@@ -12,8 +12,16 @@ During the minting process, an equal value of reserve assets and minted stableco
 
 As the oracle price may fluctuate due to conditions on the foreign exchange (FX) market, or the price on the liquidity pool may change due to demand and supply change in the DeFi space, there are additional mechanisms to bring the price to peg.
 
-The first mechanism is a stabilizer module, operated by the DAO, to swap assets on the pool to bring the price to peg.
+The first mechanism is a [price stabilizer](price-stabilizer.md) module, operated by the DAO, to swap assets on the pool to bring the price to peg.
 
-The second mechanism is the stabilizing bonds. The bonds allow bonders to bring the price to peg when they purchase them.
+The second mechanism is the [stabilizing bonds](stabilizing-bond.md). The bonds allow bonders to bring the price to peg when they purchase them.
 
 Both mechanisms are discussed in later sections.
+
+### Governance
+
+Supplying different types of stablecoins is the core revenue generator for the protocol. As such, the selection of different parameters governing the stablecoins affects the profitability of the DAO directly. These are some of the parameters that can be adjusted by the DAO:
+
+* Types of stablecoins to mint and allocate liquidity to
+* The proportion of liquidity allocated to different stablecoins
+* Overall [collateralization ratio](collateralization.md) of the protocol

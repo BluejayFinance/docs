@@ -18,6 +18,7 @@ Bluejay Finance's protocol-owned liquidity (POL) is inspired by the success of [
 * Treasury deployed for stablecoin issuing
 * Per-second compounding for staked assets (vs per-epoch on OlympusDAO)
 * Stabilizing bonds for pegging stablecoin prices
+* Protocol revenue generated from protocol growth and stablecoins' utility
 
 ### vs MakerDAO
 

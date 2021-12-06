@@ -20,7 +20,7 @@ Both mechanisms are discussed in later sections.
 
 ### Governance
 
-Supplying different types of stablecoins is the core revenue generator for the protocol. As such, the selection of different parameters governing the stablecoins affects the profitability of the DAO directly. These are some of the parameters that can be adjusted by the DAO:
+Supplying different types of stablecoins is one of the core revenue generators for the protocol. As such, the selection of different parameters governing the stablecoins affects the profitability of the DAO directly. These are some of the parameters that can be adjusted by the DAO:
 
 * Types of stablecoins to mint and allocate liquidity to
 * The proportion of liquidity allocated to different stablecoins

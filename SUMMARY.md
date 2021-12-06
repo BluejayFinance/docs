@@ -14,12 +14,12 @@
 * [Stablecoin Minting](core-concepts/stablecoin-minting.md)
 * [Stabilizing Bond](core-concepts/stabilizing-bond.md)
 * [Price Stabilizer](core-concepts/price-stabilizer.md)
+* [Collateralization](core-concepts/collateralization.md)
 * [Oracle](core-concepts/oracle.md)
 
 ## FAQ
 
 * [Protocol Comparison](faq/protocol-comparison.md)
-* [Collateralization](faq/collateralization.md)
 
 ## Smart Contract
 

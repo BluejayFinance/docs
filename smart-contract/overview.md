@@ -1,6 +1,6 @@
 # Overview
 
-![Architecture of Bluejay Protocol](<../.gitbook/assets/image (8).png>)
+![Architecture of Bluejay Protocol](<../.gitbook/assets/image (8) (1).png>)
 
 ### Overview
 

@@ -19,6 +19,7 @@
 ## FAQ
 
 * [Protocol Comparison](faq/protocol-comparison.md)
+* [Collateralization](faq/collateralization.md)
 
 ## Smart Contract
 

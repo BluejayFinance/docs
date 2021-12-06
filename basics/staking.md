@@ -14,7 +14,7 @@ The continuous accrual mechanism means that:
 
 In addition, the compounding mechanism encourages stakers to remain staked for the long term as short-term rewards are significantly lower.
 
-![5000% APY Illustrated](<../.gitbook/assets/image (2).png>)
+![5000% APY Illustrated](<../.gitbook/assets/image (2) (1).png>)
 
 To illustrate the compounding effects using an APY of 5000%, if a staker started with 1000 BLU on day 1, he will only have 1379 BLU after the first month, but that would have compounded to 50,000 BLU over the course of the next 11 months!
 

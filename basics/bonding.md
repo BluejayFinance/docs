@@ -24,7 +24,7 @@ In the example above, you can see that SGD-T is more expensive than the oracle p
 
 **Contractionary** bonds are offered when the price of the stablecoin in the liquidity pool is lower than that on the oracle. This usually indicates a contraction in the usage of the particular stablecoin outside the protocol, which decreases the price of the stablecoin on the liquidity pool when they are oversold. In such cases, the assets obtained from the bond sale will be used to swap for the stablecoins to be burnt, effectively increasing the price of the stablecoins.
 
-![Contractionary bond sales increase the price of stablecoins on liquidity pool](<../.gitbook/assets/image (4).png>)
+![Contractionary bond sales increase the price of stablecoins on liquidity pool](<../.gitbook/assets/image (9).png>)
 
 In the example above, you can see that SGD-T is less expensive than the oracle price which is 0.73. In this case, the protocol quotes a bond for 1000 DAI to be swapped on the pool for 1408 SGD-T. This has the effect of bringing the spot price closer to the oracle price, from 0.7 to 0.72.
 

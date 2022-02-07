@@ -2,7 +2,7 @@
 
 The stabilizer is a module that allows the DAO to manually bring the stablecoins' price to their pegs. This is used in scenarios where there are insufficient bonders to bring the price to peg or the price is too far off due to a huge shock to the prices on either the external FX market or on the liquidity pools.
 
-![Stabilizer performs swaps on the liquidity pool to bring price to peg](<../.gitbook/assets/image (6).png>)
+![Stabilizer performs swaps on the liquidity pool to bring price to peg](<../.gitbook/assets/Price Stabilizer.png>)
 
 ### Overview
 

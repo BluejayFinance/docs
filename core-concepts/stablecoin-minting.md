@@ -2,7 +2,7 @@
 
 Each stablecoin created by the protocol is backed by liquidity directly. This allows the protocol to be highly capital-efficient compared to models using overcollateralization only.
 
-![The DAO manages the issuance of stablecoins](<../.gitbook/assets/image (5) (1).png>)
+![The DAO manages the issuance of stablecoins](<../.gitbook/assets/Stablecoin Minting.png>)
 
 ### Overview
 

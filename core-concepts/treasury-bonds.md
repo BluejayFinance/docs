@@ -2,7 +2,7 @@
 
 Treasury bonds are a mechanism for the protocol to obtain reserve assets and liquidity tokens for its operations.
 
-![Token flow for Bond Sale](<../.gitbook/assets/image (3).png>)
+![Token flow for Bond Sale](<../.gitbook/assets/Treasury Bonds.png>)
 
 ### Overview
 

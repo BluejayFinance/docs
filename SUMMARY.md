@@ -20,6 +20,17 @@
 ## FAQ
 
 * [Protocol Comparison](faq/protocol-comparison.md)
+* [Testnet User Guides](faq/testnet-user-guides/README.md)
+  * [Connecting to Rinkeby Network](faq/testnet-user-guides/connecting-to-rinkeby-network.md)
+  * [Getting ETH & DAI on Rinkeby](faq/testnet-user-guides/getting-eth-and-dai-on-rinkeby.md)
+  * [Buying Bonds](faq/testnet-user-guides/buying-bonds.md)
+  * [Redeeming Bonds](faq/testnet-user-guides/redeeming-bonds.md)
+  * [Staking BLU](faq/testnet-user-guides/staking-blu.md)
+  * [Buying and selling BLU on Uniswap](faq/testnet-user-guides/buying-and-selling-blu-on-uniswap.md)
+  * [Buying and selling bluSGD on Uniswap](faq/testnet-user-guides/buying-and-selling-blusgd-on-uniswap.md)
+  * [Getting DAI/BLU LP Tokens](faq/testnet-user-guides/getting-dai-blu-lp-tokens.md)
+  * [Getting DAI/bluSGD LP Tokens](faq/testnet-user-guides/getting-dai-blusgd-lp-tokens.md)
+  * [Opening Support Ticket on Discord](faq/testnet-user-guides/opening-support-ticket-on-discord.md)
 
 ## Smart Contract
 

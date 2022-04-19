@@ -8,15 +8,15 @@ To purchase a DAI/bluSGD LP Treasury Bond, we need to provide liquidity on Unisw
 
 Follow these steps to get the DAI/bluSGD LP token:
 
-* Navigate to Bluejay “Dashboard” and click on “Add Liquidity” as shown below.
+1. Navigate to Bluejay “Dashboard” and click on “Add Liquidity” as shown below.
 
 ![](../../.gitbook/assets/add\_liquidity.png)
 
-* You should see the below screen. To create a DAI/bluSGD LP token, “DAI” and “bluSGD” should be selected as the tokens.
+2\. You should see the below screen. To create a DAI/bluSGD LP token, “DAI” and “bluSGD” should be selected as the tokens.
 
 ![](../../.gitbook/assets/daisgd\_lp\_testnet.png)
 
-Then proceed to follow the same steps you did to get DAI/BLU LP tokens(here).
+Then proceed to follow the same steps you did to get DAI/BLU LP tokens([here](getting-dai-blu-lp-tokens.md#getting-dai-blu-lp-token)).
 
 Click on “Approve bluSGD”, and then confirm the transaction on the Metmask pop-up.
 
@@ -38,7 +38,7 @@ You should be able to see this screen below:
 
 ![](<../../.gitbook/assets/approve dai\_sgd.png>)
 
-Then proceed to follow the steps as we did to approve DAI/BLU LP. Click on “Approve DAI/bluSGD LP” and confirm the transaction on the Metamask popup.
+Then proceed to follow the steps as we did to [approve DAI/BLU LP](getting-dai-blu-lp-tokens.md#approving-dai-blu-lp). Click on “Approve DAI/bluSGD LP” and confirm the transaction on the Metamask popup.
 
 You can now proceed to buy the DAI/bluSGD LP Treasury Bond.
 
@@ -49,6 +49,8 @@ Using your DAI/bluSGD LP tokens in your Rinkeby Wallet, key in any amount of bon
 ![](../../.gitbook/assets/owner\_of\_daiblusgd\_bond.png)
 
 You will see a Metmask popup to confirm the transaction. Click on “Confirm”. After a few seconds, your transaction should be completed and you are now a proud DAI/BLU LP Treasury Bond owner.
+
+![](<../../.gitbook/assets/owner of dai\_blusgd bond.png>)
 
 ## Purchased Bonds
 

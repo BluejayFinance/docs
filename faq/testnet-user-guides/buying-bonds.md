@@ -6,8 +6,8 @@ Bonds are at the core of what empowers Bluejay Finance to build capital-efficien
 
 First, you need to be connected to Testnet and make sure that you have some ETH and DAI in your wallet on Rinkeby. If you haven’t done those, please check these out first:
 
-1. Connecting to Rinkeby Network
-2. Getting test ETH and DAI
+1. [Connecting to Rinkeby Network](connecting-to-rinkeby-network.md)
+2. [Getting test ETH and DAI](getting-eth-and-dai-on-rinkeby.md)
 
 ## Navigating to Bonds Page
 
@@ -16,6 +16,8 @@ Once you have some ETH and DAI in your Rinkeby Wallet, head over to [testnet.blu
 ![](../../.gitbook/assets/frame\_chrome\_mac\_dark.png)
 
 The left sidebar contains all of our main functionalities. This is also where you will be able to find a list of bonds that are available for sale. You can also view the discounts of each bond at a glance through the sidebar.
+
+![](<../../.gitbook/assets/Untitled (3).png>)
 
 You can click on either “Bonds” or go directly into a specific bond that you’d like to purchase (e.g. DAI bond).
 
@@ -29,15 +31,15 @@ Even though you have DAI in your wallet, it is not possible to directly purchase
 
 Follow the instructions below to approve DAI:
 
-* Click on “DAI” on the left side bar.
+1. Click on “DAI” on the left side bar.
 
 ![](../../.gitbook/assets/click\_on\_DAI.png)
 
-* You should see something like the following. Click on “Approve DAI”, note that this is a one-time transaction to allow spending on DAI for buying bonds. Make sure you get some ETH in your Rinkeby wallet to play around.
+2\. You should see something like the following. Click on “Approve DAI”, note that this is a one-time transaction to allow spending on DAI for buying bonds. Make sure you get some ETH in your Rinkeby wallet to play around.
 
 ![](../../.gitbook/assets/approve\_dai.png)
 
-* You will then see a Metamask popup asking you to confirm the transaction. Click on “Confirm”.
+3\. You will then see a Metamask popup asking you to confirm the transaction. Click on “Confirm”.
 
 ![](../../.gitbook/assets/Untitled.png)
 
@@ -49,22 +51,24 @@ Once you have approved DAI, you may proceed to buy the treasury bond with some D
 
 Follow the instructions below to purchase your first bond:
 
-* Using your DAI in Rinkeby Wallet, key in any amount of bonds that you’d like to buy. Then click on “Bond”.
+1. Using your DAI in Rinkeby Wallet, key in any amount of bonds that you’d like to buy. Then click on “Bond”.
 
 ![](<../../.gitbook/assets/Untitled 2.png>)
 
-* You will see a Metamask popup asking you to confirm the transaction. Click on “Confirm”.
+2\. You will see a Metamask popup asking you to confirm the transaction. Click on “Confirm”.
 
 ![](../../.gitbook/assets/click\_on\_confirm.png)
 
-* After a few seconds, your transaction should be completed and you are now a proud DAI Treasury Bond owner.
+3\. After a few seconds, your transaction should be completed and you are now a proud DAI Treasury Bond owner.
 
 ![](<../../.gitbook/assets/Untitled 3.png>)
 
-* You can go back to the main “Bonds” page to see your Purchased Bonds and track their respective maturity.
+4\. You can go back to the main “Bonds” page to see your Purchased Bonds and track their respective maturity.
 
 ![](<../../.gitbook/assets/Untitled 4 (1).png>)
 
-Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU. Head over to “Redeeming Bonds” to redeem BLU from the bonds you have bought.
+Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU.&#x20;
+
+Head over to “[Redeeming Bonds](redeeming-bonds.md)” to redeem BLU from the bonds you have bought.
 
 If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)). Alternatively, you can also reach out to the community for help in the “Community Support” channel.

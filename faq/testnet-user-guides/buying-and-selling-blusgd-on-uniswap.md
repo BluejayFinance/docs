@@ -36,19 +36,19 @@ Once you have imported the BLU token, you should see something like the followin
 
 From here, follow the steps below to buy bluSGD on Uniswap.
 
-* After importing bluSGD tokens, you can swap any amount of DAI to bluSGD. After keying in the amount, click on “Swap” to execute the trade.
+1. After importing bluSGD tokens, you can swap any amount of DAI to bluSGD. After keying in the amount, click on “Swap” to execute the trade.
 
 ![](<../../.gitbook/assets/buying\_bluSGD\_on\_uniswap (1).png>)
 
-* You will see a popup, click on “Confirm Swap”.
+2\. You will see a popup, click on “Confirm Swap”.
 
 ![](../../.gitbook/assets/confirm\_blusgd\_swap.png)
 
-* Another popup from Metamask will show up one your screen to confirm the transaction. Click on “Confirm”.
+3\. Another popup from Metamask will show up on your screen to confirm the transaction. Click on “Confirm”.
 
 ![](../../.gitbook/assets/blusgd\_meta.png)
 
-* And, viola, you are now a proud holder of bluSGD.
+4\. And, viola, you are now a proud holder of bluSGD.
 
 ![](../../.gitbook/assets/bluSGD\_bought.png)
 
@@ -58,6 +58,6 @@ If you’d like to sell bluSGD, select bluSGD in the first dropdown and DAI in t
 
 ![](../../.gitbook/assets/selling\_bluSGD.png)
 
-Let us move to the next user guide, “Getting DAI/BLU LP Tokens”.
+Let us move to the next user guide, “[Getting DAI/BLU LP Tokens](getting-dai-blu-lp-tokens.md)”.
 
 If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)). Alternatively, you can also reach out to the community for help in the “Community Support” channel.

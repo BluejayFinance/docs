@@ -10,7 +10,7 @@ To connect to the test network, let us first create a new account on your Metmas
 
 ![](../../.gitbook/assets/createa\_account.png)
 
-You may name the account “Bluejay Testnet” for easy access in the future.
+You may name the account “**Bluejay Testnet**” for easy access in the future.
 
 ![](../../.gitbook/assets/Meta\_3.png)
 
@@ -26,23 +26,24 @@ This wallet address will be required, to get test ETH & DAI and do various trans
 
 To connect your Metamask wallet to the Rinkeby Test network, follow the steps given below.
 
-* Click on the top right circle to open the “My Accounts” menu and then click on “Settings”.
+1. Click on the top right circle to open the “My Accounts” menu and then click on “Settings”.
 
 ![](../../.gitbook/assets/settings.png)
 
-* Then select “Advanced”.
+2\. Then select "Advanced".
 
 ![](../../.gitbook/assets/select\_advanced.png)
 
-* Scroll down to “Show test networks” and turn it on if you haven’t before.
+3\. Scroll down to “Show test networks” and turn it on if you haven’t before.\
+
 
 ![](../../.gitbook/assets/connecting\_rinkeby\_2.png)
 
-* Click on the cross beside “Advanced”.
+4\. Click on the cross beside “Advanced”.
 
 ![](../../.gitbook/assets/cross\_advanced.png)
 
-* Switch your network to “Rinkeby Test Network” through the dropdown menu as show below.
+5\. Switch your network to “Rinkeby Test Network” through the dropdown menu as show below.
 
 ![](../../.gitbook/assets/connecting\_rinkeby\_3.png)
 
@@ -58,7 +59,7 @@ Once you have entered the test net site, click on “Connect Wallet”.
 
 ![](../../.gitbook/assets/testnet\_1.png)
 
-You will then see a popup from Metamask. Select the wallet labelled as “Bluejay Testnet\*”\*. Then click on “Next”.
+You will then see a popup from Metamask. Select the wallet labelled as “Bluejay Testnet”. Then click on “Next”.
 
 ![](../../.gitbook/assets/testent\_2.png)
 
@@ -72,6 +73,6 @@ The green light is an indication that your wallet is connected to the Rinkeby Te
 
 ![](../../.gitbook/assets/testnet\_4.png)
 
-Once we have connected to both the Rinkeby Test Network and Bluejay Testnet site, we require test ETH and DAI to play around. Head over to “Getting test ETH and DAI” to get started and interact with the Bluejay Testnet site.
+Once we have connected to both the Rinkeby Test Network and Bluejay Testnet site, we require test ETH and DAI to play around. Head over to “[Getting ETH & DAI on Rinkeby](getting-eth-and-dai-on-rinkeby.md)” to get started and interact with the Bluejay Testnet site.
 
 If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)). Alternatively, you can also reach out to the community for help in the “Community Support” channel.

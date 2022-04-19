@@ -24,7 +24,7 @@ Follow the steps below to approve BLU:
 
 Follow the steps below to stake your BLU:
 
-1. Once the BLU is approved, you can start staking your BLU. Enter the amount of DAI you want to stake, as shown below.
+1. Once the BLU is approved, you can start staking your BLU. Enter the amount of BLU you want to stake, as shown below.
 
 ![](../../.gitbook/assets/single-staking.png)
 

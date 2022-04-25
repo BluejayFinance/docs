@@ -38,6 +38,10 @@ If you have purchased several bonds, you can also click on “Redeem All” to r
 
 ![](../../.gitbook/assets/redeem\_all.png)
 
+5\. Once you have redeemed your bond for BLU, you can add the BLU token into your wallet. Simply click on the add button beside "BLU" as shown below.
+
+![](<../../.gitbook/assets/add blu to wallet.png>)
+
 Apart from redeeming your bonds as BLU, you may also have the protocol stake it for you and receive sBLU instead.&#x20;
 
 Head over to “[Staking BLU](staking-blu.md)” to start generating a yield on your redeemed BLU.

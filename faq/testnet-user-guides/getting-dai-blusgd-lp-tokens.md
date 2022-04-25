@@ -8,19 +8,19 @@ To purchase a DAI/bluSGD LP Treasury Bond, we need to provide liquidity on Unisw
 
 Follow these steps to get the DAI/bluSGD LP token:
 
-1. Navigate to Bluejay “Dashboard” and click on “Add Liquidity” as shown below.
+1. Go to Bluejay testnet site “Dashboard” and click on “Wallet” in the top right corner.
 
-![](../../.gitbook/assets/add\_liquidity.png)
+![](<../../.gitbook/assets/click on wallet.png>)
 
-2\. You should see the below screen. To create a DAI/bluSGD LP token, “DAI” and “bluSGD” should be selected as the tokens.
+2\. Then click on the swap button beside “DAI/BLU LP” under “LP Tokens”. This will redirect you to Uniswap(Rinkeby) site.
 
-![](../../.gitbook/assets/daisgd\_lp\_testnet.png)
+![](<../../.gitbook/assets/daibluSGD pool.png>)
 
 Then proceed to follow the same steps you did to get DAI/BLU LP tokens([here](getting-dai-blu-lp-tokens.md#getting-dai-blu-lp-token)).
 
-Click on “Approve bluSGD”, and then confirm the transaction on the Metmask pop-up.
+Click on “Approve bluSGD”, and then confirm the transaction on the Metamask pop-up.
 
-Then click on “Supply” and approve the transaction through the Metmask pop-up.
+Then click on “Supply” and approve the transaction through the Metamask pop-up.
 
 ![](../../.gitbook/assets/supply\_1.png)
 

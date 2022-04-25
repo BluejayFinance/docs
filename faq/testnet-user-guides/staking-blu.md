@@ -36,6 +36,10 @@ Follow the steps below to stake your BLU:
 
 ![](../../.gitbook/assets/blu\_staked.png)
 
+4\. You can add the token to your wallet as shown below. You can also view your sBLU yearn yield that compounds every second.
+
+![](<../../.gitbook/assets/add sBLU.png>)
+
 Should you decide to Unstake your BLU, you can head over to “Unstake” tab and unstake any staked BLU (sBLU).
 
 ![](../../.gitbook/assets/unstake\_tab.png)

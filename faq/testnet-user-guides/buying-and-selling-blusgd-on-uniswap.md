@@ -4,13 +4,9 @@ You can buy and sell bluSGD on Uniswap easily with strong liquidity backing. In 
 
 ## Getting bluSGD in your wallet
 
-First, head over to Bluejay’s “Dashboard”.
+Simply click on “Wallet” in the top right corner of Bluejay testnet site. Add the bluSGD token by clicking on the add button beside “bluSGD” under “Bluejay Assets” as shown below.
 
-![](../../.gitbook/assets/buydashboard.png)
-
-Secondly, add bluSGD into your wallet by clicking on the “+” icon besides bluSGD.
-
-![](../../.gitbook/assets/addtometa.png)
+![](../../.gitbook/assets/add\_bluSGD.png)
 
 You will see a Metamask popup. Click on “Add Token”.
 
@@ -20,13 +16,13 @@ Once you have the bluSGD token added to your wallet, we can proceed with importi
 
 ## Importing bluSGD on Uniswap
 
-On Bluejay's “Dashboard”, click on “Swap” which will redirect you to Uniswap(Rinkeby).
+Through the wallet overlay, click on the swap button “bluSGD” as shown below. This will redirect you to Uniswap(Rinkeby).
 
-![](../../.gitbook/assets/Click\_on\_swap.png)
+![](<../../.gitbook/assets/swap bluSGD.png>)
 
 You will see a popup asking you to import the bluSGD token. You may have to wait for a while for the import dialog to appear. Click on “Import”.
 
-![](../../.gitbook/assets/import\_blusgd.png)
+![](../../.gitbook/assets/import\_bluSGD.png)
 
 ## Buying bluSGD on Uniswap
 

@@ -58,21 +58,21 @@ Upon receiving the test DAI, you will be required to import the token into your 
 
 ![](../../.gitbook/assets/ensure\_network.png)
 
-2\. Import the DAI token into your Rinkeby Wallet by clicking on “Import Tokens” as shown below.
+2\. Then click on “Wallet” in the top right corner of the testnet site.&#x20;
 
-![](../../.gitbook/assets/import\_dai.png)
+![](<../../.gitbook/assets/click on wallet (2).png>)
 
-3\. Paste the following DAI wallet address in the “Token Contract Address” dialogue box: `0xaD6Db97C844Ec7Bb4c0641d436AA0D395fDD3f45`
+3\. You will see a wallet overlay open. Simply click on the icon beside DAI to add the DAI token to your wallet.
 
-![](<../../.gitbook/assets/Untitled 4.png>)
+![](<../../.gitbook/assets/wallet overlay.png>)
 
-4\. Then click on “Add Custom Token”.
+4\. You will see a Metamask pop-up. Click on “Add Token”.&#x20;
 
-![](<../../.gitbook/assets/Untitled 5.png>)
+![](<../../.gitbook/assets/add dai to wallet.png>)
 
-5\. The DAI token will now be visible in your Rinkeby Wallet, as shown below.
+5\. You can view your DAI balance as shown below or in your Rinkeby wallet.
 
-![](../../.gitbook/assets/view\_added\_token.png)
+![](<../../.gitbook/assets/view dai balance.png>)
 
 The faucet may be experiencing high load at time, if you have trouble getting DAI, please try again in a couple of hours. If you do not receive your test DAI after a few hours, please open a support ticket on our Discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).
 

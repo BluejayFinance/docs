@@ -19,13 +19,13 @@ To purchase the DAI/BLU LP bonds, we will first need to create liquidity for the
 
 Follow these steps to get the DAI/BLU LP token:
 
-1. Navigate to “DAI/BLU'' from the left sidebar on Bluejay Test net.
+1. Go to Bluejay testnet site “Dashboard” and click on “Wallet” in the top right corner.
 
-![](../../.gitbook/assets/daiblu\_1.png)
+![](<../../.gitbook/assets/click on wallet.png>)
 
-2\. Click on “Get more”, which will redirect you to Uniswap (Rinkeby).
+2\. Click on the swap button beside “DAI/BLU LP” under “LP Tokens”. This will redirect you to Uniswap(Rinkeby) site.
 
-![](../../.gitbook/assets/get\_more\_daiblu.png)
+![](<../../.gitbook/assets/daiblu pool.png>)
 
 3\. You will see the below image. To create a DAI/BLU LP token, “DAI” and “BLU” should be selected as the tokens.
 

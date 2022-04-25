@@ -11,63 +11,31 @@ To buy and sell BLU you must first redeem BLU by buying Bonds. If you haven’t 
 
 Once some BLU is secured in you Rinkeby Wallet, we can proceed with importing DAI and BLU on Uniswap.
 
-## Importing DAI on Uniswap
+## Importing DAI and BLU on Uniswap
 
 To buy and sell BLU on Uniswap, we will have to import the DAI and BLU tokens.
 
-Follow the steps below to import the DAI token.
+Follow the steps below to import the tokens.
 
-1. Go to: [app.uniswap.org.](http://app.uniswap.org) Connect your Rinkeby Wallet by clicking on “Connect Wallet”.
+1. Go to the Bluejay testnet site and click on “Wallet” in the top right corner.
 
-![](../../.gitbook/assets/connect\_wallet\_on\_uniswap.png)
+![](<../../.gitbook/assets/click on wallet.png>)
 
-2\. Select “Metamask” and you will see a popup asking you to select which wallet you would like to connect to Uniswap. Select the Bluejay Testnet wallet that you created recently.
+2\. Then click on the swap button beside “BLU” under “Bluejay Assets”. This will redirect you to Uniswap(Rinkeby).&#x20;
+
+![](<../../.gitbook/assets/swap blu.png>)
+
+3\. Click on “Connect Wallet” once you are on the Uniswap(Rinkeby) site.
+
+![](<../../.gitbook/assets/connect to uniswap.png>)
+
+4\. You will see a Metamask popup requesting to connect your wallet to Uniswap. Select the Bluejay Testnet wallet that you created recently.
 
 ![](../../.gitbook/assets/select\_bluejay\_testnet.png)
 
-3\. We will have to manually import the DAI token. Click on “ETH” for the dropdown menu.
+5\. You will see another pop-up, asking to import the DAI and BLU tokens. Click on “Import”.
 
-![](../../.gitbook/assets/eth\_1.png)
-
-4\. Then click on “Manage Token Lists”.
-
-![](../../.gitbook/assets/eth\_2.png)
-
-5\. Under the “Tokens” tab add the following address for DAI token: `0xaD6Db97C844Ec7Bb4c0641d436AA0D395fDD3f45`
-
-![](../../.gitbook/assets/token\_tab.png)
-
-6\. Click on “Import” to add the token.
-
-![](../../.gitbook/assets/import\_token\_dai.png)
-
-7\. You will see another popup, click on “Import” to add the DAI token.
-
-![](../../.gitbook/assets/import\_import\_dai.png)
-
-## Importing BLU on Uniswap
-
-Follow the steps below to import the BLU token.
-
-1. Click on “Select a token” for the dropdown menu on Uniswap.
-
-![](../../.gitbook/assets/seelct\_a\_token.png)
-
-2\. Then click on “Manage Token Lists”.
-
-![](../../.gitbook/assets/manage\_token\_list.png)
-
-3\. Under the “Tokens” tab add the following address for BLU token: `0x787f7893474191847c7DDF3a9040509f225Dd820`
-
-![](../../.gitbook/assets/tokens\_tab\_blu.png)
-
-4\. Click on “Import” to add the token.
-
-![](../../.gitbook/assets/import\_Tab\_blu.png)
-
-5\. You will see another popup, click on “Import” to add the BLU token.
-
-![](../../.gitbook/assets/import\_blu.png)
+![](<../../.gitbook/assets/import dai\_n\_blu.png>)
 
 ## Buying BLU on Uniswap
 

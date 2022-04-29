@@ -4,24 +4,6 @@ Bluejay Protocol is deployed on a separate test network named Rinkeby. This allo
 
 Follow this guide to set up your Metamask wallet to connect to the test network.
 
-## Create a new wallet address
-
-To connect to the test network, let us first create a new account on your Metmask wallet. Click on the top right circle to open the “My Accounts” menu and then click on “Create Account”.
-
-![](../../.gitbook/assets/createa\_account.png)
-
-You may name the account “**Bluejay Testnet**” for easy access in the future.
-
-![](../../.gitbook/assets/Meta\_3.png)
-
-This account will be used for any transaction you want to do on the Bluejay Testnet.
-
-Your new wallet address is:
-
-![](../../.gitbook/assets/Meta\_4.png)
-
-This wallet address will be required, to get test ETH & DAI and do various transactions on the Bluejay Testnet. We will now move forward to connect our “Bluejay Testnet” wallet to the Rinkeby test network.
-
 ## **Connecting to Rinkeby**
 
 To connect your Metamask wallet to the Rinkeby Test network, follow the steps given below.

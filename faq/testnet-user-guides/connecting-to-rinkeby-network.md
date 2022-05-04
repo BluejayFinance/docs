@@ -41,11 +41,11 @@ Once you have entered the test net site, click on “Connect Wallet”.
 
 ![](../../.gitbook/assets/testnet\_1.png)
 
-You will then see a popup from Metamask. Select the wallet labelled as “Bluejay Testnet”. Then click on “Next”.
+You will then see a popup from Metamask. Select the wallet you would like to connect to the testnet, then click on “Next”. For the purpose of this guide we will use the wallet labelled as “Bluejay Testnet”.
 
 ![](../../.gitbook/assets/testent\_2.png)
 
-Metmask will then confirm if you want to connect to the Bluejay Testnet. Click on “Connect”.
+Metamask will then confirm if you want to connect to the Bluejay Testnet. Click on “Connect”.
 
 ![](../../.gitbook/assets/testnet\_3.png)
 

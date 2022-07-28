@@ -69,6 +69,6 @@ Follow the steps below if you would like to sell BLU.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-25 at 5.43.20 PM.png>)
 
-Move to the next guide “[Buying and Selling bluSGD on Uniswap](buying-and-selling-blusgd.md)”.
+Move to the next guide “[Buying and Selling bluSGD](buying-and-selling-blusgd.md)”.
 
 If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)). Alternatively, you can also reach out to the community for help in the “Community Support” channel.

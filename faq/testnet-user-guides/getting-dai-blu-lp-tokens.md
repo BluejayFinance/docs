@@ -9,7 +9,7 @@ In this guide you will learn how to provide equal value of DAI and BLU to an Uni
 To purchase DAI/BLU LP Treasury Bonds you will need to provide liquidity on Uniswap using DAI and BLU tokens. Therefore before purchasing LP Treasury bonds, make sure you have obtained BLU and DAI tokens in your wallet. If not follow these steps before proceeding:
 
 1. [Getting ETH & DAI on Rinkeby](getting-eth-and-dai-on-rinkeby.md)
-2. [Buying and Selling BLU on Uniswap](buying-and-selling-blu-on-uniswap.md)
+2. [Buying and Selling BLU on Uniswap](buying-and-selling-blu.md)
 
 Once you have DAI and BLU tokens in your wallet, we can proceed to get the DAI/BLU LP token.
 

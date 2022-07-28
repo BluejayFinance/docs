@@ -44,6 +44,6 @@ Should you decide to Unstake your BLU, you can head over to “Unstake” tab an
 
 ![](../../.gitbook/assets/unstake\_tab.png)
 
-Proceed to our next section “[Buying and Selling BLU on Uniswap](buying-and-selling-blu-on-uniswap.md)”.
+Proceed to our next section “[Buying and Selling BLU on Uniswap](buying-and-selling-blu.md)”.
 
 If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)). Alternatively, you can also reach out to the community for help in the “Community Support” channel.

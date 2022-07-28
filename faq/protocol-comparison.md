@@ -4,7 +4,7 @@ For DeFi users familiar with other protocols like OlympusDAO, MakerDAO, etc, thi
 
 ### vs OlympusDAO
 
-Bluejay Finance's protocol-owned liquidity (POL) is inspired by the success of [OlympusDAO](https://www.olympusdao.finance), allowing for a more predictable supply of liquidity for our stablecoins users. In addition, Bluejay makes use of existing bonding mechanics from Olympus for the treasury bond where the bonds are priced as a function of the debt ratio and a control variable. However, Bluejay introduces significant changes to how the treasury is used by deploying them as operational capital for a stablecoin issuer.
+Bluejay Finance's protocol-owned liquidity (POL) is inspired by the success of [OlympusDAO](https://www.olympusdao.finance/), allowing for a more predictable supply of liquidity for our stablecoins users. In addition, Bluejay makes use of existing bonding mechanics from Olympus for the treasury bond where the bonds are priced as a function of the debt ratio and a control variable. However, Bluejay introduces significant changes to how the treasury is used by deploying them as operational capital for a stablecoin issuer.
 
 **Similarities**
 
@@ -22,7 +22,7 @@ Bluejay Finance's protocol-owned liquidity (POL) is inspired by the success of [
 
 ### vs MakerDAO
 
-Bluejay Finance's governance model is inspired by the dual-token model of [MakerDAO](https://makerdao.com) where the stablecoin issued is pegged to a value and the governance token act as an asset for value accrual and governance. Unlike MakerDAO, Bluejay does not impose rent on stablecoins, in the form of a stability fee, but instead collects revenue from swaps on the liquidity pools. In addition, Bluejay simplifies the process of creating stable assets for stakeholders, by managing the risk at the protocol level as opposed to having users manage individual debt positions.&#x20;
+Bluejay Finance's governance model is inspired by the dual-token model of [MakerDAO](https://makerdao.com/) where the stablecoin issued is pegged to a value and the governance token act as an asset for value accrual and governance. Unlike MakerDAO, Bluejay does not impose rent on stablecoins, in the form of a stability fee, but instead collects revenue from swaps on the liquidity pools. In addition, Bluejay simplifies the process of creating stable assets for stakeholders, by managing the risk at the protocol level as opposed to having users manage individual debt positions.&#x20;
 
 **Similarities**
 
@@ -39,7 +39,7 @@ Bluejay Finance's governance model is inspired by the dual-token model of [Maker
 
 ### vs Angle Protocol
 
-Bluejay Finance's multi-stablecoin model is inspired by [Angle Protocol](https://www.angle.money). Both protocols aim to present different approaches to creating stablecoin issuance platforms that are capital-efficient. The main difference is the way we approach liquidity (protocol-owned or user-owned) and risk (internalizing within the protocol or externalizing to hedging agents)/
+Bluejay Finance's multi-stablecoin model is inspired by [Angle Protocol](https://www.angle.money/). Both protocols aim to present different approaches to creating stablecoin issuance platforms that are capital-efficient. The main difference is the way we approach liquidity (protocol-owned or user-owned) and risk (internalizing within the protocol or externalizing to hedging agents)/
 
 **Similarities**
 
@@ -53,7 +53,7 @@ Bluejay Finance's multi-stablecoin model is inspired by [Angle Protocol](https:/
 
 ### vs Frax Finance
 
-Bluejay Finance's capital-efficient model is inspired by [Frax Finance](https://frax.finance). Both protocols optimize the use of capital while balancing capitalization risk. The main difference is that Frax was designed as a fractional reserve model while Bluejay has a more dynamic range for the collateralization ratio.
+Bluejay Finance's capital-efficient model is inspired by [Frax Finance](https://frax.finance/). Both protocols optimize the use of capital while balancing capitalization risk. The main difference is that Frax was designed as a fractional reserve model while Bluejay has a more dynamic range for the collateralization ratio.
 
 **Similarities**
 

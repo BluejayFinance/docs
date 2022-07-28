@@ -10,7 +10,7 @@
 
 Most stablecoin solutions are centered around USD and not designed for other currencies. This means that users do not have a choice of having exposure to currencies other than USD in the DeFi space.
 
-By having stablecoins of different currencies around the world on the blockchain, we lower the barrier for businesses and individuals in these countries to transact without currency exchange risk. This helps to widen the product offerings of existing DeFi companies that provide crypto invoicing (ie [Request](https://request.network/en/)), streaming payments (ie [Sablier](https://sablier.finance)), etc.
+By having stablecoins of different currencies around the world on the blockchain, we lower the barrier for businesses and individuals in these countries to transact without currency exchange risk. This helps to widen the product offerings of existing DeFi companies that provide crypto invoicing (ie [Request](https://request.network/en/)), streaming payments (ie [Sablier](https://sablier.finance/)), etc.
 
 Full-reserve stablecoins that are fiat-backed are not scalable in either volume, liquidity, or product types as they are often encumbered by regulators, custodian services, and other service providers.
 

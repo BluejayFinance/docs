@@ -10,7 +10,7 @@ Follow these steps to get test ETH in your wallet.
 
 ![](../../.gitbook/assets/Meta\_4)
 
-2\. We can get test ETH from this link: [https://rinkebyfaucet.com/](https://rinkebyfaucet.com).
+2\. We can get test ETH from this link: [https://rinkebyfaucet.com/](https://rinkebyfaucet.com/).
 
 ![](../../.gitbook/assets/faucet1)
 

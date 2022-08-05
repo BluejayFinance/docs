@@ -7,6 +7,11 @@
 * [Staking](basics/staking.md)
 * [Bonding](basics/bonding.md)
 
+## Launch
+
+* [Schedule](launch/schedule.md)
+* [Launch Stages](launch/launch-stages.md)
+
 ## Core Concepts
 
 * [Overview](core-concepts/overview.md)

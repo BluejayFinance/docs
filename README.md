@@ -1,6 +1,5 @@
 ---
 description: Money without borders
-coverY: 0
 ---
 
 # Bluejay Finance Overview

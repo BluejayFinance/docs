@@ -24,6 +24,12 @@ This stage is where pBLU tokens are available. Earlier investors of the protocol
 
 At this stage, there are no BLU tokens being minted yet.
 
+{% hint style="info" %}
+pBLU is a derivative of BLU, which is provided our early investors who have supported us by providing capital prior to our launch date.&#x20;
+
+For more information: [https://medium.com/p/fda9e17c8d69](https://medium.com/p/fda9e17c8d69)
+{% endhint %}
+
 ### Whitelist Stage
 
 This stage allows users who have been given quotas to participate in the whitelist sale to purchase tokens at a fixed price. At the same time, a small amount of BLU tokens will be made available on Uniswap for secondary market trading.&#x20;

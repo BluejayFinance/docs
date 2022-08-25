@@ -10,7 +10,7 @@ Bluejay Finance is a capital-efficient decentralized stablecoin protocol for iss
 
 ### Why Bluejay Finance?
 
-The introduction of USD stablecoins has allowed individuals and businesses to not only pay and receive payments but also to gain access to a wide variety of financial services like money exchanges (ie [Uniswap](https://uniswap.org/)), savings (ie [Celsius](https://celsius.network/)), investments (ie [Synthetix](https://synthetix.io/)), asset management (ie [Yearn](https://yearn.finance/)), etc. This has helped reduce inequality by democratizing access to financial services, even for the underbanked population (ie [Nigerians using DAI](https://www.coindesk.com/markets/2021/03/15/nigerians-turn-to-stablecoins-for-protection-against-inflation/)).
+The introduction of USD stablecoins has allowed individuals and businesses to not only pay and receive payments but also to gain access to a wide variety of financial services like money exchanges (ie [Uniswap](https://uniswap.org/)), investments (ie [Synthetix](https://synthetix.io/)), asset management (ie [Yearn](https://yearn.finance/)), etc. This has helped reduce inequality by democratizing access to financial services, even for the underbanked population (ie [Nigerians using DAI](https://www.coindesk.com/markets/2021/03/15/nigerians-turn-to-stablecoins-for-protection-against-inflation/)).
 
 However, most stablecoin solutions are centered around USD and not designed for other currencies. This means that users do not have a choice of having exposure to currencies other than USD in the DeFi space.
 

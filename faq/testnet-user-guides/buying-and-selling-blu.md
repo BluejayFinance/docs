@@ -9,7 +9,7 @@ To buy and sell BLU you must first redeem BLU by buying Bonds. If you haven’t 
 1. [Buying Bonds](buying-bonds.md)
 2. [Redeeming Bonds](redeeming-bonds.md)
 
-Once some BLU is secured in you Rinkeby Wallet, we can proceed with importing DAI and BLU on Uniswap.
+Once some BLU is secured in you Goerli Wallet, we can proceed with importing DAI and BLU on Uniswap.
 
 ## Buying BLU&#x20;
 

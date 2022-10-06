@@ -14,7 +14,7 @@ The team will be announcing more details about the whitelist eligibility and req
 
 ### Testnet
 
-The protocol is currently live on the Rinkeby testnet. Users who participate in the testnet will be allocated quotas to purchase BLU tokens on the whitelist sale.&#x20;
+The protocol is currently live on the Goerli testnet. Users who participate in the testnet will be allocated quotas to purchase BLU tokens on the whitelist sale.&#x20;
 
 Read the [Testnet User Guide](../faq/testnet-user-guides/) section to begin exploring our application on the testnet.
 

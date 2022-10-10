@@ -24,11 +24,11 @@ Follow these steps to get test ETH in your wallet.
 
 5\. You can open your Metamask wallet to check whether you have received the test ETH.
 
-![](../../.gitbook/assets/got\_test\_eth)
+![](../../.gitbook/assets/got\_test\_eth.png)
 
 If you were unsuccessful in getting test ETH, you can alternatively get test ETH from here: [https://faucets.chain.link/goerli](https://faucets.chain.link/goerli).
 
-## Getting DAI from Bluejay Team
+## Getting DAI from Bluejay's Faucet
 
 You will be required to obtain DAI to interact with the protocol. You may obtain the test DAI token from the faucet.
 

@@ -4,14 +4,14 @@ Bonds are at the core of what empowers Bluejay Finance to build capital-efficien
 
 ## Before Buying Bonds
 
-First, you need to be connected to Testnet and make sure that you have some ETH and DAI in your wallet on Rinkeby. If you haven’t done those, please check these out first:
+First, you need to be connected to Testnet and make sure that you have some ETH and DAI in your wallet on Goerli. If you haven’t done those, please check these out first:
 
-1. [Connecting to Rinkeby Network](connecting-to-rinkeby-network.md)
-2. [Getting test ETH and DAI](getting-eth-and-dai-on-rinkeby.md)
+1. [Connecting to Goerli Network](connecting-to-goerli-network.md)
+2. [Getting test ETH and DAI](getting-eth-and-dai-on-goerli.md)
 
 ## Navigating to Bonds Page
 
-Once you have some ETH and DAI in your Rinkeby Wallet, head over to [testnet.bluejay.finance](http://testnet.bluejay.finance). You should see something like the following:
+Once you have some ETH and DAI in your Goerli Wallet, head over to [testnet.bluejay.finance](http://testnet.bluejay.finance). You should see something like the following:
 
 ![](../../.gitbook/assets/frame\_chrome\_mac\_dark.png)
 
@@ -35,7 +35,7 @@ Follow the instructions below to approve DAI:
 
 ![](../../.gitbook/assets/click\_on\_DAI.png)
 
-2\. You should see something like the following. Click on “Approve DAI”, note that this is a one-time transaction to allow spending on DAI for buying bonds. Make sure you get some ETH in your Rinkeby wallet to play around.
+2\. You should see something like the following. Click on “Approve DAI”, note that this is a one-time transaction to allow spending on DAI for buying bonds. Make sure you get some ETH in your Goerli wallet to play around.
 
 ![](../../.gitbook/assets/approve\_dai.png)
 
@@ -51,7 +51,7 @@ Once you have approved DAI, you may proceed to buy the treasury bond with some D
 
 Follow the instructions below to purchase your first bond:
 
-1. Using your DAI in Rinkeby Wallet, key in any amount of bonds that you’d like to buy. Then click on “Bond”.
+1. Using your DAI in Goerli Wallet, key in any amount of bonds that you’d like to buy. Then click on “Bond”.
 
 ![](<../../.gitbook/assets/Untitled 2.png>)
 

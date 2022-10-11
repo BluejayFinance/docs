@@ -12,7 +12,7 @@ Follow these steps to get the DAI/bluSGD LP token:
 
 ![](<../../.gitbook/assets/click on wallet.png>)
 
-2\. Then click on the swap button beside “DAI/BLU LP” under “LP Tokens”. This will redirect you to Uniswap(Rinkeby) site.
+2\. Then click on the swap button beside “DAI/BLU LP” under “LP Tokens”. This will redirect you to Uniswap(Goerli) site.
 
 ![](<../../.gitbook/assets/daibluSGD pool.png>)
 
@@ -44,7 +44,7 @@ You can now proceed to buy the DAI/bluSGD LP Treasury Bond.
 
 ## Buying DAI/bluSGD Bonds
 
-Using your DAI/bluSGD LP tokens in your Rinkeby Wallet, key in any amount of bonds that you would like to buy, click on “Bond”.
+Using your DAI/bluSGD LP tokens in your Goerli Wallet, key in any amount of bonds that you would like to buy, click on “Bond”.
 
 ![](../../.gitbook/assets/owner\_of\_daiblusgd\_bond.png)
 

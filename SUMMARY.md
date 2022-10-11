@@ -26,8 +26,8 @@
 
 * [Protocol Comparison](faq/protocol-comparison.md)
 * [Testnet User Guides](faq/testnet-user-guides/README.md)
-  * [Connecting to Rinkeby Network](faq/testnet-user-guides/connecting-to-rinkeby-network.md)
-  * [Getting ETH & DAI on Rinkeby](faq/testnet-user-guides/getting-eth-and-dai-on-rinkeby.md)
+  * [Connecting to Goerli Network](faq/testnet-user-guides/connecting-to-goerli-network.md)
+  * [Getting ETH & DAI on Goerli](faq/testnet-user-guides/getting-eth-and-dai-on-goerli.md)
   * [Buying Bonds](faq/testnet-user-guides/buying-bonds.md)
   * [Redeeming Bonds](faq/testnet-user-guides/redeeming-bonds.md)
   * [Staking BLU](faq/testnet-user-guides/staking-blu.md)

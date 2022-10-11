@@ -2,7 +2,7 @@
 
 Stabilizing bonds are bonds that help to correct the liquidity pool's price to bring them to peg. It's a mechanism for the protocol to incentivize bonders to help correct the stablecoin prices automatically. Two forms of stabilizing bonds are available for each liquidity pool, expansionary bonds, and contractionary bonds.
 
-![Dynamic pricing and sale of stabilizing bonds](<../.gitbook/assets/Stabilizing Bonds (1).png>)
+![Dynamic pricing and sale of stabilizing bonds](<../.gitbook/assets/Stabilizing Bonds.png>)
 
 ### Overview
 

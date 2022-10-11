@@ -11,7 +11,7 @@ To buy and sell BLU you must first redeem BLU by buying Bonds. If you haven’t 
 
 Once some BLU is secured in you Goerli Wallet, we can proceed with importing DAI and BLU on Uniswap.
 
-## Buying BLU&#x20;
+## Buying BLU
 
 Follow the steps below to buy BLU.
 
@@ -19,9 +19,9 @@ Follow the steps below to buy BLU.
 
 ![](<../../.gitbook/assets/click on wallet.png>)
 
-2\. Then click on the swap button beside “BLU” under “Bluejay Assets”.&#x20;
+2\. Then click on the swap button beside “BLU” under “Bluejay Assets”.
 
-![](<../../.gitbook/assets/swap blu.png>)
+![](<../../.gitbook/assets/swap blu (1).png>)
 
 3\. You will be redirected to a page as shown below. We are using the Uniswap widget on testnet site to make it more convenient for users to buy and sell BLU.
 
@@ -35,11 +35,11 @@ Follow the steps below to buy BLU.
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-25 at 5.03.05 PM.png>)
 
-#### Once you have imported the DAI token, you can proceed to buy BLU.&#x20;
+#### Once you have imported the DAI token, you can proceed to buy BLU.
 
 6\. Click on “Review Swap”.
 
-![](<../../.gitbook/assets/Screenshot 2022-07-25 at 4.58.34 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-07-25 at 4.58.34 PM (1).png>)
 
 7\. Then click on “Confirm Swap”.
 
@@ -55,9 +55,9 @@ Follow the steps below to buy BLU.
 
 ## Selling BLU
 
-Follow the steps below if you would like to sell BLU.&#x20;
+Follow the steps below if you would like to sell BLU.
 
-1. Click on the swap button indicated in the image to sell BLU.&#x20;
+1. Click on the swap button indicated in the image to sell BLU.
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-25 at 5.29.50 PM (1).png>)
 
@@ -67,7 +67,7 @@ Follow the steps below if you would like to sell BLU.&#x20;
 
 3\. We can then proceed to sell BLU. Follow steps 6-9 from above to sell BLU.
 
-![](<../../.gitbook/assets/Screenshot 2022-07-25 at 5.43.20 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-07-25 at 5.43.20 PM (1).png>)
 
 Move to the next guide “[Buying and Selling bluSGD](buying-and-selling-blusgd.md)”.
 

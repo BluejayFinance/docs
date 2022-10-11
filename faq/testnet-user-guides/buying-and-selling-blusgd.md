@@ -24,7 +24,7 @@ Follow the steps below to buy bluSGD.
 
 2\. You will be redirected to a page as shown below. We are using the Uniswap widget on testnet site to make it more convenient for users to buy and sell bluSGD.
 
-![](<../../.gitbook/assets/Screenshot 2022-07-25 at 4.42.25 PM (2).png>)
+![](<../../.gitbook/assets/Screenshot 2022-07-25 at 4.42.25 PM (1) (1).png>)
 
 3\. You can now swap any amount of DAI to bluSGD. To proceed click on "Review Swap".
 

@@ -18,7 +18,7 @@ Follow the steps below to approve BLU:
 
 3\. You will see a Metamask popup asking you to confirm the transaction. Click on “Confirm”.
 
-![](../../.gitbook/assets/confirm\_metamask.png)
+![](<../../.gitbook/assets/confirm\_metamask (1).png>)
 
 ## Staking your BLU
 

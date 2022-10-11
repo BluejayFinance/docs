@@ -12,7 +12,7 @@ To do so, the protocol quotes bonds for reserve assets like `DAI` or liquidity t
 
 ### Stabilizing Bonds
 
-![Dynamic pricing of stabilizing bonds](<../.gitbook/assets/Stabilizing Bonds.png>)
+![Dynamic pricing of stabilizing bonds](<../.gitbook/assets/Stabilizing Bonds (1).png>)
 
 \
 The objective of stabilizing bonds is to bring the various stablecoins' prices to their peg. There will be two types of stabilizing bonds, expansionary and contractionary bonds, and are offered during different market conditions automatically. The bonds allow the protocol to acquire reserve assets (like DAI) to either mint and sell more stablecoins or to buy back stablecoins from the market. The type of bond offered depends on the direction of the price deviation and the discount offered depends on the magnitude of price deviation. The protocol also defines a small tolerance level where neither bonds are sold because the price deviation of the stablecoin is inconsequential.

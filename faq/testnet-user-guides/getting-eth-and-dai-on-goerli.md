@@ -8,19 +8,19 @@ Follow these steps to get test ETH in your wallet.
 
 1. Open Metamask and copy the wallet address for Bluejay Testnet.
 
-![](../../.gitbook/assets/Meta\_4)
+![](<../../.gitbook/assets/Meta\_4 (1)>)
 
-2\. We can get test ETH from this link: [https://goerlifaucet.com/](https://goerlifaucet.com/).
+2\. We can get test ETH from this link: [https://goerlifaucet.com/](https://goerlifaucet.com/), after signing up for a free Alchemy account (you can skip the credit card page).
 
-![](../../.gitbook/assets/faucet1)
+<figure><img src="../../.gitbook/assets/screenshot-20221011-142329.png" alt=""><figcaption></figcaption></figure>
 
 3\. Paste your wallet address into the box highlighted. Then press “Send Me ETH”.
 
-![](../../.gitbook/assets/faucet2)
+<figure><img src="../../.gitbook/assets/screenshot-20221011-143834.png" alt=""><figcaption></figcaption></figure>
 
 4\. Test ETH will be immediately transferred to your wallet.
 
-![](../../.gitbook/assets/faucet3)
+<figure><img src="../../.gitbook/assets/screenshot-20221011-144129.png" alt=""><figcaption></figcaption></figure>
 
 5\. You can open your Metamask wallet to check whether you have received the test ETH.
 
@@ -36,7 +36,7 @@ You will be required to obtain DAI to interact with the protocol. You may obtain
 
 ![](../../.gitbook/assets/Untitled)
 
-2\. Complete the “I’m not a robot” captcha   and click on “Send me DAI”.
+2\. Complete the “I’m not a robot” captcha and click on “Send me DAI”.
 
 ![](<../../.gitbook/assets/Untitled 1>)
 
@@ -56,17 +56,17 @@ Upon receiving the test DAI, you will be required to import the token into your 
 
 1. First, make sure you are connected to the Goerli Network.
 
-![](../../.gitbook/assets/ensure\_network.png)
+<figure><img src="../../.gitbook/assets/connecting_goerli_3.png" alt=""><figcaption></figcaption></figure>
 
-2\. Then click on “Wallet” in the top right corner of the testnet site.&#x20;
+2\. Then click on “Wallet” in the top right corner of the testnet site.
 
-![](<../../.gitbook/assets/click on wallet (2).png>)
+![](<../../.gitbook/assets/click on wallet (1).png>)
 
 3\. You will see a wallet overlay open. Simply click on the icon beside DAI to add the DAI token to your wallet.
 
 ![](<../../.gitbook/assets/wallet overlay.png>)
 
-4\. You will see a Metamask pop-up. Click on “Add Token”.&#x20;
+4\. You will see a Metamask pop-up. Click on “Add Token”.
 
 ![](<../../.gitbook/assets/add dai to wallet.png>)
 

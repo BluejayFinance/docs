@@ -46,11 +46,11 @@ You can now proceed to buy the DAI/bluSGD LP Treasury Bond.
 
 Using your DAI/bluSGD LP tokens in your Goerli Wallet, key in any amount of bonds that you would like to buy, click on “Bond”.
 
-![](../../.gitbook/assets/owner\_of\_daiblusgd\_bond.png)
+![](<../../.gitbook/assets/owner of dai\_blusgd bond.png>)
 
 You will see a Metmask popup to confirm the transaction. Click on “Confirm”. After a few seconds, your transaction should be completed and you are now a proud DAI/BLU LP Treasury Bond owner.
 
-![](<../../.gitbook/assets/owner of dai\_blusgd bond.png>)
+![](../../.gitbook/assets/owner\_of\_daiblusgd\_bond.png)
 
 ## Purchased Bonds
 

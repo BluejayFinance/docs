@@ -37,7 +37,7 @@ Follow these steps to get the DAI/BLU LP token:
 
 5\. You will see a Metmask popup to confirm the transaction. Click on “Confirm”.
 
-![](<../../.gitbook/assets/click\_on\_confirm (1).png>)
+![](../../.gitbook/assets/click\_on\_confirm.png)
 
 6\. Click on the “Supply” button.
 

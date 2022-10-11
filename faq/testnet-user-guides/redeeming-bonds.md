@@ -8,7 +8,7 @@ In this guide, we will go through how you can redeem a portion of your bond valu
 
 Head over to “Bonds” section from your left navigation bar and scroll down to the bottom of the page. If you had purchased bonds before, you should be able to see the “Purchased Bonds” section below.
 
-![](../../.gitbook/assets/redeem.png)
+![](<../../.gitbook/assets/Untitled 4 (1).png>)
 
 You may redeem the BLU tokens as they mature or wait until the tokens are fully vested before redeeming them.
 
@@ -24,7 +24,7 @@ Follow the steps below to redeem BLU:
 
 2\. You will then see a Metamask pop-up asking you to confirm the transaction. Click on “Confirm”.
 
-![](<../../.gitbook/assets/confirm\_metamask (1).png>)
+![](../../.gitbook/assets/confirm\_metamask.png)
 
 3\. A progress bar will be visible on your screen which shows BLU being redeemed.
 

@@ -17,7 +17,7 @@ Once you have some ETH and DAI in your Goerli Wallet, head over to [testnet.blue
 
 The left sidebar contains all of our main functionalities. This is also where you will be able to find a list of bonds that are available for sale. You can also view the discounts of each bond at a glance through the sidebar.
 
-![](<../../.gitbook/assets/Untitled (3).png>)
+![](<../../.gitbook/assets/Untitled (3) (1).png>)
 
 You can click on either “Bonds” or go directly into a specific bond that you’d like to purchase (e.g. DAI bond).
 
@@ -57,7 +57,7 @@ Follow the instructions below to purchase your first bond:
 
 2\. You will see a Metamask popup asking you to confirm the transaction. Click on “Confirm”.
 
-![](../../.gitbook/assets/click\_on\_confirm.png)
+![](<../../.gitbook/assets/click\_on\_confirm (1).png>)
 
 3\. After a few seconds, your transaction should be completed and you are now a proud DAI Treasury Bond owner.
 
@@ -65,9 +65,9 @@ Follow the instructions below to purchase your first bond:
 
 4\. You can go back to the main “Bonds” page to see your Purchased Bonds and track their respective maturity.
 
-![](<../../.gitbook/assets/Untitled 4 (1).png>)
+![](../../.gitbook/assets/redeem.png)
 
-Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU.&#x20;
+Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU.
 
 Head over to “[Redeeming Bonds](redeeming-bonds.md)” to redeem BLU from the bonds you have bought.
 

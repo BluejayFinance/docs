@@ -14,16 +14,15 @@ To connect your Metamask wallet to the Goerli Test network, follow the steps giv
 
 2\. Then select "Advanced".
 
-![](../../.gitbook/assets/select\_advanced.png)
+![](../../.gitbook/assets/select\_advanced)
 
-3\. Scroll down to “Show test networks” and turn it on if you haven’t before.\
-
+3\. Scroll down to “Show test networks” and turn it on if you haven’t before.\\
 
 ![](../../.gitbook/assets/connecting\_goerli\_2.png)
 
 4\. Click on the cross beside “Advanced”.
 
-![](../../.gitbook/assets/cross\_advanced.png)
+![](../../.gitbook/assets/cross\_advanced)
 
 5\. Switch your network to “Goerli Test Network” through the dropdown menu as show below.
 
@@ -35,19 +34,19 @@ To check if the wallet has connected to the Goerli Test Network, we can open the
 
 You will be greeted with a warning pop-up. Do take 2 mins to read through it carefully. If you have read and agree with the terms of use, click on the tick box and press “Enter”.
 
-![](../../.gitbook/assets/Confirm\_warning.png)
+![](../../.gitbook/assets/Confirm\_warning)
 
 Once you have entered the test net site, click on “Connect Wallet”.
 
-![](../../.gitbook/assets/testnet\_1.png)
+![](../../.gitbook/assets/testnet\_1)
 
 You will then see a popup from Metamask. Select the wallet you would like to connect to the testnet, then click on “Next”. For the purpose of this guide we will use the wallet labelled as “Bluejay Testnet”.
 
-![](../../.gitbook/assets/testent\_2.png)
+![](../../.gitbook/assets/testent\_2)
 
 Metamask will then confirm if you want to connect to the Bluejay Testnet. Click on “Connect”.
 
-![](../../.gitbook/assets/testnet\_3.png)
+![](../../.gitbook/assets/testnet\_3)
 
 Congratulation, you are now connected to the Bluejay Testnet site!
 

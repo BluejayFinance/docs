@@ -1,24 +1,29 @@
 # Schedule
 
-The protocol is scheduled to be launched in Q4 2022.&#x20;
+The protocol is scheduled to be launched in Q2 2022.
 
-### Whitelist Sale
+### Token Sale
 
-A whitelist sale is confirmed. Qualified addresses will be able to purchase the BLU token at a fixed price during the sale.
+The token sale will commence on 3rd Nov 2022 at 10am SGT (7pm PT or 10pm ET on 2nd Nov 2022) for up to 2 weeks.
 
-Price of BLU token: \<TBD>
+Number of tokens sold: 1 million BLU
 
-Number of BLU tokens available: \<TBD>
+Price of token sold: 10 DAI per BLU
 
-The team will be announcing more details about the whitelist eligibility and requirements as well as providing a whitelist quota checker soon.
+#### Whitelist Program
+
+Whitelist addresses will be able to purchase the BLU token at 5 DAI per BLU during the sale up to the quota allocated on the whitelist.
+
+Users will be able to check their whitelist allocation by visiting the [whitelist checker page](https://bluejay.finance/whitelist).&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Whitelist checker showing allocations</p></figcaption></figure>
 
 ### Testnet
 
-The protocol is currently live on the Goerli testnet. Users who participate in the testnet will be allocated quotas to purchase BLU tokens on the whitelist sale.&#x20;
+The protocol is currently live on the Goerli testnet. Users who participate in the testnet will be allocated quotas to purchase BLU tokens on the whitelist sale.
 
 Read the [Testnet User Guide](../faq/testnet-user-guides/) section to begin exploring our application on the testnet.
 
 ### Launch Stage
 
 The protocol will be launched in several stages. For full details of the different stages and how you can participate, read the [Launch Stage](launch-stages.md) section.
-

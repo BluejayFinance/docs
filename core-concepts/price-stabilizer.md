@@ -12,9 +12,9 @@ In the case where the stablecoin is overpriced on the liquidity pool, more stabl
 
 In the case where the stablecoin is underpriced on the liquidity pool, reserve assets will be swapped on the pool for the stablecoin to bring the price up. The swapped stablecoins will be burned.
 
-### Fallback Mechanism
+### Bootstrap & Fallback Mechanism
 
-The stabilizer will be used only as a last-resort to stabilize prices since the stabilizing bond would create incentives for bonders to bring the prices of stablecoins to peg
+The stabilizer will be used most aggressively during the early days of the launch when volatility is the highest and will be relaxed to allow the stabilizing bonds to take over in keeping the prices of the stablecoins to peg.
 
 ### Controls & Measure
 

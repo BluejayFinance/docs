@@ -37,15 +37,13 @@ When there is less demand for stablecoin, the contractionary bonds will be sold.
 
 ![Overcollateralization: More reserve value than stablecoins'](../.gitbook/assets/Collateralization\_1.png)
 
-In the early days of the protocol, the protocol will be over-collateralized. That means that the value of the DAI held in the treasury will be more than or equal to the aggregate value of all the stablecoin in external circulation. In the diagram above, the DAI in the treasury backs the SGD-T in external circulation.
+The protocol will be over-collateralized. That means that the value of the DAI held in the treasury will be more than or equal to the aggregate value of all the stablecoin in external circulation. In the diagram above, the DAI in the treasury backs the SGD-T in external circulation.
 
 The stablecoins held by the protocol, through the liquidity tokens, are backed 1-1 with the reserve assets it is paired up with.&#x20;
 
 Since the protocol can be used to issue other assets, the reserve asset can be used to create new stablecoins and their liquidity pool. That means there will be more than one type of liquidity token held by the treasury.&#x20;
 
 ![Fractional Reserve: Less reserve value than stablecoins'](../.gitbook/assets/Collateralization\_2.png)
-
-Once the protocol has reached a certain scale and stability, where it is possible to forecast the number of stablecoins in circulation, it is possible for the protocol to transit into a fractional reserve model. This means that the reserve assets held in the treasury have a lower value than the aggregate value of all the stablecoins in circulation. Moving into a fractional reserve model means that the protocol becomes more capital efficient (ie 1 USD of assets can be used to back >1 USD of stablecoins), but also increase the risk of the protocol to remain solvent and retain the peg of the issued stablecoins.
 
 ### Collateralization ratio as a governance-controlled parameter
 

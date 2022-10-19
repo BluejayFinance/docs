@@ -40,3 +40,4 @@
 ## Smart Contract
 
 * [Overview](smart-contract/overview.md)
+* [Code Audit](smart-contract/code-audit.md)

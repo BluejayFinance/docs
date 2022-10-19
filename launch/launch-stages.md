@@ -1,38 +1,16 @@
 # Launch Stages
 
-![Contracts deployed in different stages of launch](../.gitbook/assets/image.png)
-
 The Bluejay Protocol is has numerous contracts that work together to mint and manage multiple stablecoins. These contracts will be launched in separate stages.
 
 The main stages of launch are:
 
-* Base Stage
-* PreToken Stage
-* Whitelist Stage
+* Treasury Bootstrap Stage
 * BLU General Availability Stage
 * bluSGD General Availability Stage
 
-### Base Stage
+### Treasury Bootstrap Stage
 
-This stage is where the BLU token contract as well as the Treasury contract are first deployed as dependencies for other modules to the protocol.&#x20;
-
-At this stage, there are no BLU tokens being minted yet.
-
-### PreToken Stage
-
-This stage is where pBLU tokens are available. Earlier investors of the protocol will be able to claim their allocation of pBLU tokens which gives them the ability to convert to BLU tokens at much later dates when certain milestones are achieved.&#x20;
-
-At this stage, there are no BLU tokens being minted yet.
-
-{% hint style="info" %}
-pBLU is a derivative of BLU, which is provided our early investors who have supported us by providing capital prior to our launch date.&#x20;
-
-For more information: [https://medium.com/p/fda9e17c8d69](https://medium.com/p/fda9e17c8d69)
-{% endhint %}
-
-### Whitelist Stage
-
-This stage allows users who have been given quotas to participate in the whitelist sale to purchase tokens at a fixed price. At the same time, a small amount of BLU tokens will be made available on Uniswap for secondary market trading.&#x20;
+This stage allows the public and whitelisted users who have been given quotas to participate in the whitelist sale to purchase tokens at a fixed price. At the same time, a small amount of BLU tokens will be made available on Uniswap for secondary market trading.&#x20;
 
 The following actions are now possible:
 
@@ -41,8 +19,10 @@ The following actions are now possible:
 
 At this stage, a fixed amount of BLU tokens will be made available on the whitelist sale as well as on Uniswap.&#x20;
 
+The token sale will run for up to 2 weeks and will end as soon as 1 million BLU tokens are sold in total.&#x20;
+
 {% hint style="warning" %}
-The liquidity on the Uniswap pool will be at its lowest at this point in time and the price is the most vulnerable to speculative trades. The team may be working on a separate module to deter and reduce the impact of such activities.
+The liquidity on the Uniswap pool will be at its lowest at this point in time and the price is the most vulnerable to speculative trades. As such, the liquidity captor module is live during this phase to protect protocol users from speculative traders. More information about the liquidity captor can be found [here](https://medium.com/bluejay-finance/capturing-speculative-trade-as-value-for-token-holders-with-liquidity-captor-d492ac3b6a7e).
 {% endhint %}
 
 ### BLU General Availability Stage

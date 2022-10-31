@@ -36,6 +36,11 @@
   * [Getting DAI/BLU LP Tokens](faq/testnet-user-guides/getting-dai-blu-lp-tokens.md)
   * [Getting DAI/bluSGD LP Tokens](faq/testnet-user-guides/getting-dai-blusgd-lp-tokens.md)
   * [Opening Support Ticket on Discord](faq/testnet-user-guides/opening-support-ticket-on-discord.md)
+* [Token Sale User Guides](faq/token-sale-user-guides/README.md)
+  * [Connecting Your Wallet](faq/token-sale-user-guides/connecting-your-wallet.md)
+  * [Swapping for DAI](faq/token-sale-user-guides/swapping-for-dai.md)
+  * [Buying BLU (for whitelisted)](faq/token-sale-user-guides/buying-blu-for-whitelisted.md)
+  * [Buying BLU (for non-whitelisted)](faq/token-sale-user-guides/buying-blu-for-non-whitelisted.md)
 * [Mainnet User Guides](faq/mainnet-user-guides/README.md)
   * [Buying Bonds](faq/mainnet-user-guides/buying-bonds.md)
   * [Redeeming Bonds](faq/mainnet-user-guides/redeeming-bonds.md)
@@ -45,11 +50,6 @@
   * [Getting BLU/DAI LP Tokens](faq/mainnet-user-guides/getting-dai-blu-lp-tokens.md)
   * [Getting bluSGD/DAI LP Tokens](faq/mainnet-user-guides/getting-dai-blusgd-lp-tokens.md)
   * [Opening Support Ticket on Discord](faq/mainnet-user-guides/opening-support-ticket-on-discord.md)
-* [Token Sale User Guides](faq/token-sale-user-guides/README.md)
-  * [Connecting Your Wallet](faq/token-sale-user-guides/connecting-your-wallet.md)
-  * [Swapping for DAI](faq/token-sale-user-guides/swapping-for-dai.md)
-  * [Buying BLU (for whitelisted)](faq/token-sale-user-guides/buying-blu-for-whitelisted.md)
-  * [Buying BLU (for non-whitelisted)](faq/token-sale-user-guides/buying-blu-for-non-whitelisted.md)
 
 ## Smart Contract
 

@@ -16,7 +16,7 @@ Follow these steps to get the bluSGD/DAI LP token:
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-l9d.png" alt=""><figcaption></figcaption></figure>
 
-Then proceed to follow the same steps you did to get BLU/DAI LP tokens([here](../testnet-user-guides/getting-dai-blu-lp-tokens.md#getting-dai-blu-lp-token)).
+Then proceed to follow the same steps you did to get BLU/DAI LP tokens([here](broken-reference)).
 
 Click on “**Approve bluSGD**”, and then confirm the transaction on the Metamask pop-up.
 
@@ -38,7 +38,7 @@ You should be able to see this screen below:
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-lmu.png" alt=""><figcaption></figcaption></figure>
 
-Then proceed to follow the steps as we did to [approve DAI/BLU LP](../testnet-user-guides/getting-dai-blu-lp-tokens.md#approving-dai-blu-lp). Click on “**Approve bluSGD/DAI LP**” and confirm the transaction on the Metamask popup.
+Then proceed to follow the steps as we did to [approve DAI/BLU LP](broken-reference). Click on “**Approve bluSGD/DAI LP**” and confirm the transaction on the Metamask popup.
 
 You can now proceed to buy the bluSGD/DAI LP Treasury Bond.
 

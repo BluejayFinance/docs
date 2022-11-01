@@ -60,4 +60,4 @@ Note: You can still buy more BLU at the public price (10 DAI) after finishing bu
 
 <figure><img src="../../.gitbook/assets/SCR-20221026-g2a.png" alt=""><figcaption></figcaption></figure>
 
-If you require further technical support, you can [open a support ticket](../testnet-user-guides/opening-support-ticket-on-discord.md) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

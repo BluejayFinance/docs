@@ -49,5 +49,5 @@ Congratulations! Now you have DAI ready in your wallet and proceed to [buy BLU](
 
 
 
-If you require further technical support, you can [open a support ticket](../testnet-user-guides/opening-support-ticket-on-discord.md) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
 

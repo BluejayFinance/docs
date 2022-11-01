@@ -22,7 +22,7 @@ Users will be able to check their whitelist allocation by visiting the [whitelis
 
 The protocol is currently live on the Goerli testnet. Users who participate in the testnet will be allocated quotas to purchase BLU tokens on the whitelist sale.
 
-Read the [Testnet User Guide](../faq/testnet-user-guides/) section to begin exploring our application on the testnet.
+Read the [Testnet User Guide](broken-reference) section to begin exploring our application on the testnet.
 
 ### Launch Stage
 

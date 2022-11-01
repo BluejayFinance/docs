@@ -58,4 +58,4 @@ You can now see BLU tokens you’ve bought in your wallet.
 This was the last step of this token sale user guide. \
 We have gone through all the actions for the token sale.&#x20;
 
-If you have further questions, you can [open a support ticket](../testnet-user-guides/opening-support-ticket-on-discord.md) and do not hesitate to reach out to the team or community on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you have further questions, you can [open a support ticket](broken-reference) and do not hesitate to reach out to the team or community on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

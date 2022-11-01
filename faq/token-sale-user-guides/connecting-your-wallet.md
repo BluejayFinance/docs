@@ -22,5 +22,5 @@ Once you have connected your wallet correctly, you should see something like the
 
 If you already have DAI in your wallet, head over to “[Buying BLU](buying-blu-for-whitelisted.md)” to continue the buying process. If you don't have DAI yet, please refer to "[Swapping for DAI](swapping-for-dai.md)" get DAI first.
 
-If you require further technical support, you can [open a support ticket](../testnet-user-guides/opening-support-ticket-on-discord.md) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
 

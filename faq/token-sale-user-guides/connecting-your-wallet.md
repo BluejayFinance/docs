@@ -8,7 +8,7 @@ If you don’t have DAI in your wallet, you can [swap for DAI on uniswap](swappi
 
 **Navigating to Token Sale Page**
 
-Once you have some ETH and DAI in your Ethereum wallet, head over to [https://app.bluejay.finance/sale](https://bluejay.finance/sale). Once you confirmed and accept the **Terms of Use**, you should see something like the following:
+Once you have some ETH and DAI in your Ethereum wallet, head over to [https://app.bluejay.finance/sale](https://app.bluejay.finance/sale). Once you confirmed and accept the **Terms of Use**, you should see something like the following:
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-qp2.png" alt=""><figcaption></figcaption></figure>
 

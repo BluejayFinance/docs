@@ -4,7 +4,7 @@ Sending transaction on the Ethereum network requires  ETH for gas. You will also
 
 In this guide, you will learn how to swap for DAI with your existing assets to begin interacting with Bluejay protocol.
 
-Head over to [https://app.bluejay.finance/sale](https://bluejay.finance/sale).\
+Head over to [https://app.bluejay.finance/sale](https://app.bluejay.finance/sale).\
 Once you confirmed and accept the **Terms of Use**, you should see something like the following:
 
 ![](<../../.gitbook/assets/0 (1)>)

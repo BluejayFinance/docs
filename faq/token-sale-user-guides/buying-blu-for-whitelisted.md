@@ -2,7 +2,9 @@
 
 ### **Buying BLU for whitelisted wallets**
 
-If your wallet is whitelisted to buy BLU, Congratulations! Then,you should see something like the following.
+If your wallet is whitelisted to buy BLU, Congratulations! \
+Head over to [https://app.bluejay.finance/sale](https://app.bluejay.finance/sale)\
+Then, you should see something like the following.
 
 ![](<../../.gitbook/assets/2 (1)>)
 

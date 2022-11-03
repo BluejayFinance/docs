@@ -6,7 +6,8 @@ Note that we are making 1 million BLU available during our token sale.
 
 ### **Navigating to Token Sale Page**
 
-Head over to [https://app.bluejay.finance/sale](https://bluejay.finance/sale). Make sure your wallet is connected to the Ethereum Mainnet and that you have some DAI and ETH in your wallet.
+Head over to [https://app.bluejay.finance/sale](https://app.bluejay.finance/sale). \
+Make sure your wallet is connected to the Ethereum Mainnet and that you have some DAI and ETH in your wallet.
 
 <figure><img src="../../.gitbook/assets/Publicsales.png" alt=""><figcaption></figcaption></figure>
 

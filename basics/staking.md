@@ -24,4 +24,4 @@ When you unstake, the sBLU token is swapped for an equal amount of BLU. That als
 
 The reward rate for BLU is determined by the monetary policy set by the DAO. The level is dependent on the proceed from the bond sale, fees collected from the liquidity pool on the various stablecoins as well as the projected runway for sustaining the reward rate.
 
-The initial staking rate will be set to 50% APY until further action initiated by the DAO.
+The initial staking rate will be set to 35% APY until further action initiated by the DAO.

@@ -20,11 +20,9 @@ Once you have connected your wallet correctly, you should see something like the
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-qsh.png" alt=""><figcaption></figcaption></figure>
 
-{% code title="Connecting Your Wallet" %}
-```
-// <div style="position: relative; padding-bottom: calc(47.8515625% + 40px); height: 0;"><iframe src="https://demo.arcade.software/vmUCM7FvtKo4e8JAVtd6?embed" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-```
-{% endcode %}
+{% @arcade/embed flowId="vmUCM7FvtKo4e8JAVtd6" url="https://app.arcade.software/share/vmUCM7FvtKo4e8JAVtd6" %}
+
+
 
 If you already have DAI in your wallet, head over to “[Buying BLU](buying-blu-for-whitelisted.md)” to continue the buying process. If you don't have DAI yet, please refer to "[Swapping for DAI](swapping-for-dai.md)" get DAI first.
 

@@ -47,7 +47,7 @@ Enter the amount of ETH or USDC you would like to swap for DAI and follow the wa
 
 Congratulations! Now you have DAI ready in your wallet and proceed to [buy BLU](buying-blu-for-whitelisted.md).
 
-
+{% @arcade/embed flowId="EGsENvu1xrezlVVnzUY5" url="https://app.arcade.software/share/EGsENvu1xrezlVVnzUY5" %}
 
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
 

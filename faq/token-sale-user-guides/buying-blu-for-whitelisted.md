@@ -62,4 +62,7 @@ Note: You can still buy more BLU at the public price (10 DAI) after finishing bu
 
 <figure><img src="../../.gitbook/assets/SCR-20221026-g2a.png" alt=""><figcaption></figcaption></figure>
 
+{% @arcade/embed flowId="lTwEFHmYYSAbBuB4w5S7" url="https://app.arcade.software/share/lTwEFHmYYSAbBuB4w5S7" %}
+
+\
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

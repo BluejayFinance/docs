@@ -16,9 +16,9 @@ In addition, the compounding mechanism encourages stakers to remain staked for t
 
 ### Passive Strategy
 
-Once the BLU tokens are staked, the protocol will swap them for the staked BLU, sBLU, token. The sBLU token has a one-to-one exchange to the BLU token which increases in value each second.
+Once the BLU tokens are staked, the protocol will swap them for the staked BLU token (sBLU) which increases in amount each second. The sBLU token has a one-to-one exchange to the BLU token.
 
-When you unstake, the sBLU token is swapped for an equal amount of BLU. That also means that these BLU are not accruing any rewards.
+When you unstake, the sBLU token is swapped for an equal amount of BLU which does not accrue any rewards.
 
 ### Reward Rate
 

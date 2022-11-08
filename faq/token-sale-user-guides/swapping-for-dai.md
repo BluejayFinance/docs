@@ -4,6 +4,8 @@ Sending transaction on the Ethereum network requires  ETH for gas. You will also
 
 In this guide, you will learn how to swap for DAI with your existing assets to begin interacting with Bluejay protocol.
 
+{% @arcade/embed flowId="EGsENvu1xrezlVVnzUY5" url="https://app.arcade.software/share/EGsENvu1xrezlVVnzUY5" %}
+
 Head over to [https://app.bluejay.finance/sale](https://app.bluejay.finance/sale).\
 Once you confirmed and accept the **Terms of Use**, you should see something like the following:
 
@@ -46,8 +48,6 @@ Enter the amount of ETH or USDC you would like to swap for DAI and follow the wa
 ![](<../../.gitbook/assets/3 (1)>)
 
 Congratulations! Now you have DAI ready in your wallet and proceed to [buy BLU](buying-blu-for-whitelisted.md).
-
-{% @arcade/embed flowId="EGsENvu1xrezlVVnzUY5" url="https://app.arcade.software/share/EGsENvu1xrezlVVnzUY5" %}
 
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
 

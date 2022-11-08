@@ -2,6 +2,8 @@
 
 You can buy and sell bluSGD on Uniswap easily with strong liquidity backing. In this guide, we will focus on buying bluSGD. But, selling works the same way too in the opposite direction.
 
+{% @arcade/embed flowId="T4WjwIIeDF7TNT1nlI92" url="https://app.arcade.software/share/T4WjwIIeDF7TNT1nlI92" %}
+
 ## Getting bluSGD in your wallet
 
 Simply click on “Wallet” in the top right corner of Bluejay site. Add the bluSGD token by clicking on the add button beside “bluSGD” under “Bluejay Assets” as shown below.
@@ -43,6 +45,8 @@ Follow the steps below to buy bluSGD.
 <figure><img src="../../.gitbook/assets/SCR-20221025-j5v.png" alt=""><figcaption></figcaption></figure>
 
 ## Selling bluSGD
+
+{% @arcade/embed flowId="QtLXtt3jbh4L6qsBaPkD" url="https://app.arcade.software/share/QtLXtt3jbh4L6qsBaPkD" %}
 
 Follow the steps below if you would like to sell bluSGD.&#x20;
 

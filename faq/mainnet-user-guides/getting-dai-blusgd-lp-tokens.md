@@ -1,8 +1,10 @@
-# Getting bluSGD/DAI LP Tokens
+# Buying bluSGD/DAI Treasury Bonds
 
 ## Why do we need LP Tokens?
 
 To purchase a bluSGD/DAI LP Treasury Bond, we need to provide liquidity on Uniswap using bluSGD and DAI tokens. Therefore before purchasing LP Treasury bonds, make sure you have obtained DAI and bluSGD tokens in your wallet.
+
+{% @arcade/embed flowId="RkJhHAYsaENrpeXvtTpJ" url="https://app.arcade.software/share/RkJhHAYsaENrpeXvtTpJ" %}
 
 ## Getting bluSGD/DAI LP Token
 

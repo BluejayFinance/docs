@@ -6,6 +6,8 @@ First, you need to be connected to Ethereum Mainnet and make sure that you have 
 
 If you don’t have DAI in your wallet, you can [swap for DAI on uniswap](swapping-for-dai.md) easily.
 
+{% @arcade/embed flowId="vmUCM7FvtKo4e8JAVtd6" url="https://app.arcade.software/share/vmUCM7FvtKo4e8JAVtd6" %}
+
 **Navigating to Token Sale Page**
 
 Once you have some ETH and DAI in your Ethereum wallet, head over to [https://app.bluejay.finance/sale](https://app.bluejay.finance/sale). Once you confirmed and accept the **Terms of Use**, you should see something like the following:
@@ -19,8 +21,6 @@ Click “**Connect your wallet**” and connect your wallet on Ethereum Mainnet 
 Once you have connected your wallet correctly, you should see something like the following by clicking on “**Wallet**”.
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-qsh.png" alt=""><figcaption></figcaption></figure>
-
-{% @arcade/embed flowId="vmUCM7FvtKo4e8JAVtd6" url="https://app.arcade.software/share/vmUCM7FvtKo4e8JAVtd6" %}
 
 
 

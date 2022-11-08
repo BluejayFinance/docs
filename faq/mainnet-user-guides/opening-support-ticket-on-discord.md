@@ -1,5 +1,7 @@
 # Opening Support Ticket on Discord
 
+{% @arcade/embed flowId="GK50RaDsEKKwmXu0uBXO" url="https://app.arcade.software/share/GK50RaDsEKKwmXu0uBXO" %}
+
 Follow the steps below to open a support ticket:
 
 1. Open Bluejay Finance Discord server: [https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)
@@ -21,6 +23,3 @@ Follow the steps below to open a support ticket:
 
 ![](../../.gitbook/assets/ticket\_6.png)
 
-Alternatively, you can also contact the community for help through the “community-support” group as shown below.
-
-![](../../.gitbook/assets/ticket\_7.png)

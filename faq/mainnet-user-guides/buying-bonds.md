@@ -2,6 +2,10 @@
 
 Bonds are at the core of what empowers Bluejay Finance to build capital-efficient multi-currency stablecoins. There are two types of bonds that you can purchase; [Treasury Bonds](https://docs.bluejay.finance/core-concepts/treasury-bonds) and [Stabilizing Bonds](https://docs.bluejay.finance/core-concepts/stabilizing-bond). In this tutorial, we will focus on buying a Treasury Bond with DAI.
 
+
+
+{% @arcade/embed flowId="orppqjdx6xVnJ9n1fZeH" url="https://app.arcade.software/share/orppqjdx6xVnJ9n1fZeH" %}
+
 ## Before Buying Bonds
 
 First, you need to be connected to Ethereum Mainnet and make sure that you have some ETH and DAI in your wallet. If you don't have DAI ready in your wallet, please refer to this on [swapping for DAI](../token-sale-user-guides/swapping-for-dai.md).

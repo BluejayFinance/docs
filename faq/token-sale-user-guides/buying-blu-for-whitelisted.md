@@ -1,5 +1,7 @@
 # Buying BLU (for whitelisted)
 
+{% @arcade/embed flowId="lTwEFHmYYSAbBuB4w5S7" url="https://app.arcade.software/share/lTwEFHmYYSAbBuB4w5S7" %}
+
 ### **Buying BLU for whitelisted wallets**
 
 If your wallet is whitelisted to buy BLU, Congratulations! \
@@ -61,8 +63,6 @@ Note: You can still buy more BLU at the public price (10 DAI) after finishing bu
 5\. Once you have successfully bought BLU, you can add the BLU token into your wallet. Simply click on the add button beside "**BLU**" as shown below.
 
 <figure><img src="../../.gitbook/assets/SCR-20221026-g2a.png" alt=""><figcaption></figcaption></figure>
-
-{% @arcade/embed flowId="lTwEFHmYYSAbBuB4w5S7" url="https://app.arcade.software/share/lTwEFHmYYSAbBuB4w5S7" %}
 
 \
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

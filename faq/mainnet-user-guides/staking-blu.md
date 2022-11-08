@@ -2,6 +2,8 @@
 
 Bluejay offers single-side BLU staking. Once you have BLU available in your wallet, you can go over to Staking to start generating yield. You can also learn more about Staking [here](https://docs.bluejay.finance/basics/staking).
 
+{% @arcade/embed flowId="kWr44O094hntpos0gB13" url="https://app.arcade.software/share/kWr44O094hntpos0gB13" %}
+
 ## Approving BLU
 
 In order to start staking your BLU, you first need to approve BLU. This is a one-time action.

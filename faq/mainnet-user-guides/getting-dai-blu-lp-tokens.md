@@ -1,4 +1,6 @@
-# Getting BLU/DAI LP Tokens
+# Buying BLU/DAI Treasury Bonds
+
+{% @arcade/embed flowId="IY0FaUvNOV6jhvtEPaXf" url="https://app.arcade.software/share/IY0FaUvNOV6jhvtEPaXf" %}
 
 Other than using DAI for the bonds, you can also use liquidity provider tokens to purchase the bonds. Liquidity provider tokens are tokens that represent your stake in automated market makers (AMMs) like Uniswap.
 

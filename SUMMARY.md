@@ -36,8 +36,8 @@
   * [Staking BLU](faq/mainnet-user-guides/staking-blu.md)
   * [Buying and selling BLU](faq/mainnet-user-guides/buying-and-selling-blu.md)
   * [Buying and selling bluSGD](faq/mainnet-user-guides/buying-and-selling-blusgd.md)
-  * [Getting BLU/DAI LP Tokens](faq/mainnet-user-guides/getting-dai-blu-lp-tokens.md)
-  * [Getting bluSGD/DAI LP Tokens](faq/mainnet-user-guides/getting-dai-blusgd-lp-tokens.md)
+  * [Buying BLU/DAI Treasury Bonds](faq/mainnet-user-guides/getting-dai-blu-lp-tokens.md)
+  * [Buying bluSGD/DAI Treasury Bonds](faq/mainnet-user-guides/getting-dai-blusgd-lp-tokens.md)
   * [Opening Support Ticket on Discord](faq/mainnet-user-guides/opening-support-ticket-on-discord.md)
 
 ## Smart Contract

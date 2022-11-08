@@ -11,6 +11,8 @@ To buy and sell BLU you must first redeem BLU by buying Bonds. If you haven’t 
 
 Once some BLU is secured in your Wallet, we can proceed with importing DAI and BLU on Uniswap.
 
+{% @arcade/embed flowId="4rbLDdqzjXjBhGwCGzNT" url="https://app.arcade.software/share/4rbLDdqzjXjBhGwCGzNT" %}
+
 ## Buying BLU
 
 Follow the steps below to buy BLU.
@@ -54,6 +56,8 @@ Follow the steps below to buy BLU.
 <figure><img src="../../.gitbook/assets/SCR-20221025-i84 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Selling BLU
+
+{% @arcade/embed flowId="9zYoNv8JH90v1nMQ6lHV" url="https://app.arcade.software/share/9zYoNv8JH90v1nMQ6lHV" %}
 
 Follow the steps below if you would like to sell BLU.
 

@@ -4,6 +4,8 @@ A bond takes some time for it to be vested (or to be matured). Once a bond is ma
 
 In this guide, we will go through how you can redeem a portion of your bond value and get BLU that has been linearly vested.
 
+{% @arcade/embed flowId="ZmJk3tcKnR1wjdfz4q4c" url="https://app.arcade.software/share/ZmJk3tcKnR1wjdfz4q4c" %}
+
 ## Where to Redeem Bonds
 
 Head over to “**Bonds**” section from your left navigation bar and scroll down to the bottom of the page. If you had purchased bonds before, you should be able to see the “**Purchased Bonds**” section below.

@@ -46,4 +46,4 @@ Apart from redeeming your bonds as BLU, you may also have the protocol stake it 
 
 Head over to “[Staking BLU](staking-blu.md)” to start generating a yield on your redeemed BLU.
 
-If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

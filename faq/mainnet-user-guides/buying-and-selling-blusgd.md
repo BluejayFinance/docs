@@ -62,6 +62,6 @@ Follow the steps below if you would like to sell bluSGD.&#x20;
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-jdu.png" alt=""><figcaption></figcaption></figure>
 
-Let us move to the next user guide, “[Getting DAI/BLU LP Tokens](getting-dai-blusgd-lp-tokens.md)”.
+Let us move to the next user guide, “[Buying BLU/DAI Treasury Bonds](getting-dai-blu-lp-tokens.md)”.
 
-If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

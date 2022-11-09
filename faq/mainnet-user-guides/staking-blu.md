@@ -48,4 +48,4 @@ Should you decide to Unstake your BLU, you can head over to “**Unstake**” ta
 
 Proceed to our next section “[Buying and Selling BLU](buying-and-selling-blu.md)”.
 
-If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

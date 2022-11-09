@@ -60,4 +60,6 @@ You can go back to the main “Bonds” page to view your Purchased Bonds and tr
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-m9q.png" alt=""><figcaption></figcaption></figure>
 
-This was the last step of the user guides. We have gone through all the actions available on the Bluejay. If you have further questions, do not hesitate to reach out to the team or community on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+Let's move to the next guide "[Buying Stabilizing Bonds](buying-stabilizing-bonds.md)".
+
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

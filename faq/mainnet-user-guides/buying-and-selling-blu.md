@@ -75,4 +75,4 @@ Follow the steps below if you would like to sell BLU.
 
 Move to the next guide “[Buying and Selling bluSGD](buying-and-selling-blu.md)”.
 
-If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

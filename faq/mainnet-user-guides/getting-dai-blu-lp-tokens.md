@@ -90,6 +90,6 @@ After a few seconds, your transaction should be completed and you are now a prou
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-kss.png" alt=""><figcaption></figcaption></figure>
 
-Let's move to the next guide "[Getting bluSGD/DAI LP Tokens](getting-dai-blusgd-lp-tokens.md)".
+Let's move to the next guide "[Buying bluSGD/DAI Treasury Bonds](getting-dai-blusgd-lp-tokens.md)".
 
-If you require further technical support, you can open a support ticket on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;
+If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

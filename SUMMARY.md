@@ -36,6 +36,7 @@
   * [Staking BLU](faq/mainnet-user-guides/staking-blu.md)
   * [Buying and selling BLU](faq/mainnet-user-guides/buying-and-selling-blu.md)
   * [Buying and selling bluSGD](faq/mainnet-user-guides/buying-and-selling-blusgd.md)
+  * [Peg Stability Module (PSM)](faq/mainnet-user-guides/peg-stability-module-psm.md)
   * [Buying BLU/DAI Treasury Bonds](faq/mainnet-user-guides/getting-dai-blu-lp-tokens.md)
   * [Buying bluSGD/DAI Treasury Bonds](faq/mainnet-user-guides/getting-dai-blusgd-lp-tokens.md)
   * [Buying Stabilizing Bonds](faq/mainnet-user-guides/buying-stabilizing-bonds.md)

@@ -6,6 +6,8 @@ description: >-
 
 # Peg Stability Module (PSM)
 
+{% @arcade/embed flowId="nYrGDqUjk7R0BJ8dDhRN" url="https://app.arcade.software/share/nYrGDqUjk7R0BJ8dDhRN" %}
+
 ### **Swap In xSGD to bluSGD**
 
 If you are an xSGD holder and are looking to swap into bluSGD, follow the steps below:

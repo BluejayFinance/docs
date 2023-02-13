@@ -1,26 +1,22 @@
 # Table of contents
 
 * [Bluejay Finance Overview](README.md)
+* [Roadmap](roadmap.md)
 
 ## Basics
 
 * [Staking](basics/staking.md)
 * [Bonding](basics/bonding.md)
 
-## Launch
+## bluStables - Core Concepts
 
-* [Schedule](launch/schedule.md)
-* [Launch Stages](launch/launch-stages.md)
-
-## Core Concepts
-
-* [Overview](core-concepts/overview.md)
-* [Treasury Bonds](core-concepts/treasury-bonds.md)
-* [Stablecoin Minting](core-concepts/stablecoin-minting.md)
-* [Stabilizing Bond](core-concepts/stabilizing-bond.md)
-* [Price Stabilizer](core-concepts/price-stabilizer.md)
-* [Collateralization](core-concepts/collateralization.md)
-* [Oracle](core-concepts/oracle.md)
+* [Overview](blustables-core-concepts/overview.md)
+* [Treasury Bonds](blustables-core-concepts/treasury-bonds.md)
+* [Stablecoin Minting](blustables-core-concepts/stablecoin-minting.md)
+* [Stabilizing Bond](blustables-core-concepts/stabilizing-bond.md)
+* [Price Stabilizer](blustables-core-concepts/price-stabilizer.md)
+* [Collateralization](blustables-core-concepts/collateralization.md)
+* [Oracle](blustables-core-concepts/oracle.md)
 
 ## FAQ
 
@@ -44,8 +40,12 @@
 
 ## Technical Resources - Stablecoin
 
-* [Overview](technical-resources-stablecoin/overview.md)
-* [Code Audit](technical-resources-stablecoin/code-audit.md)
+* [Overview](smart-contract/overview.md)
+* [Code Audit](smart-contract/code-audit.md)
+
+## Archived
+
+* [bluSGD Launch Stages](archived/launch-stages.md)
 
 ## Technical Resources - Earn
 

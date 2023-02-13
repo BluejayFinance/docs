@@ -10,8 +10,8 @@ The objective of these bonds is to allow the protocol to acquire its own liquidi
 
 More information about the treasury bonds can be found in the core concept section:
 
-{% content-ref url="../core-concepts/treasury-bonds.md" %}
-[treasury-bonds.md](../core-concepts/treasury-bonds.md)
+{% content-ref url="../blustables-core-concepts/treasury-bonds.md" %}
+[treasury-bonds.md](../blustables-core-concepts/treasury-bonds.md)
 {% endcontent-ref %}
 
 ### Stabilizing Bonds
@@ -20,8 +20,8 @@ The objective of stabilizing bonds is to bring the various stablecoins' prices t
 
 More information about the stabilizing bonds can be found in the core concept section:
 
-{% content-ref url="../core-concepts/stabilizing-bond.md" %}
-[stabilizing-bond.md](../core-concepts/stabilizing-bond.md)
+{% content-ref url="../blustables-core-concepts/stabilizing-bond.md" %}
+[stabilizing-bond.md](../blustables-core-concepts/stabilizing-bond.md)
 {% endcontent-ref %}
 
 ### Choosing your bonds

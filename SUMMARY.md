@@ -29,6 +29,7 @@
 * [Types of Borrower Pools](bluejay-earn-core-concepts/types-of-borrower-pools.md)
 * [Loan Lifecycle](bluejay-earn-core-concepts/loan-lifecycle.md)
 * [Legalities](bluejay-earn-core-concepts/legalities.md)
+* [Risk Disclosure](bluejay-earn-core-concepts/risk-disclosure.md)
 * [Protocol Comparison](bluejay-earn-core-concepts/protocol-comparison.md)
 
 ## User Guides

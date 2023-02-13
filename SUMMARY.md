@@ -57,6 +57,7 @@
 * [Protocol Actors](technical-resources-earn/protocol-actors.md)
 * [Glossary](technical-resources-earn/glossary.md)
 * [Fees](technical-resources-earn/fees.md)
+* [Code Audit](technical-resources-earn/code-audit.md)
 
 ## Archived
 

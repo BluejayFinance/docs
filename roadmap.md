@@ -2,7 +2,7 @@
 
 Bluejay Finance has launched its stablecoin protocol in 2022 and will be rolling out a p2p lending protocol in 2023.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Overview of Roadmap</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Overview of Roadmap</p></figcaption></figure>
 
 ### Key Milestones
 

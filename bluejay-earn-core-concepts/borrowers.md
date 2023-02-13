@@ -1,6 +1,10 @@
-# Borrowers
+---
+description: >-
+  Borrowers are participants who are looking to raise debt capital from lenders
+  via the protocol.
+---
 
-Borrowers are participants who are looking to raise debt capital from lenders via the protocol.
+# Borrowers
 
 ### How does it work?
 

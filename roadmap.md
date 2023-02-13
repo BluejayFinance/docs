@@ -2,7 +2,7 @@
 
 Bluejay Finance has launched its stablecoin protocol in 2022 and will be rolling out a p2p lending protocol in 2023.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Overview of Roadmap</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Overview of Roadmap</p></figcaption></figure>
 
 ### Key Milestones
 
@@ -31,6 +31,8 @@ Bluejay will be launching our decentralised lending platform with selected Beta 
 **Q2 2023 - Earn Official Launch**
 
 Bluejay will be launching the complete suite of tools to support the Earn product with focus on bringing more high quality borrowers onboard to provide earning opportunities in a decentralised fashion.&#x20;
+
+Some features such as early repayment fees may be introduced during this period.
 
 **H2 2023 Onwards - Scaling Earn**
 

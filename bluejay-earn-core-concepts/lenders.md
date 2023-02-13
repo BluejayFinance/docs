@@ -15,7 +15,7 @@ Bluejay Earn enables anyone holding bluSGD to become a lender. Whether you're li
 
 In order to participate in any of the opportunities, lenders can get access to bluSGD (For instructions, refer to this article - [buying and selling bluSGD](../user-guides/buying-and-selling-blu.md)). Once the lenders have bluSGD in their wallets, they may select any of the opportunities available for them to invest via the dApp.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Access to various lending opportunities on Bluejay Earn</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Access to various lending opportunities on Bluejay Earn</p></figcaption></figure>
 
 Once the lender has deposited funds into a borrower pool, the lender will receive a loan pool token ("LP Token") which represents their share of the pool. When the pool is fully subscribed and the borrower has started repayments, the LP token holders will receive repayments in proportion to their share of the pool.
 

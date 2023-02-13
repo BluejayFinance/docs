@@ -42,7 +42,15 @@
   * [Buying Stabilizing Bonds](faq/mainnet-user-guides/buying-stabilizing-bonds.md)
   * [Opening Support Ticket on Discord](faq/mainnet-user-guides/opening-support-ticket-on-discord.md)
 
-## Smart Contract
+## Technical Resources - Stablecoin
 
-* [Overview](smart-contract/overview.md)
-* [Code Audit](smart-contract/code-audit.md)
+* [Overview](technical-resources-stablecoin/overview.md)
+* [Code Audit](technical-resources-stablecoin/code-audit.md)
+
+## Technical Resources - Earn
+
+* [Protocol Overview](technical-resources-earn/protocol-overview/README.md)
+  * [Background](technical-resources-earn/protocol-overview/background.md)
+  * [Protocol Actors](technical-resources-earn/protocol-overview/protocol-actors.md)
+  * [Glossary](technical-resources-earn/protocol-overview/glossary.md)
+  * [Fees](technical-resources-earn/protocol-overview/fees.md)

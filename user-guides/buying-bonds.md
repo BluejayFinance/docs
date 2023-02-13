@@ -8,7 +8,7 @@ Bonds are at the core of what empowers Bluejay Finance to build capital-efficien
 
 ## Before Buying Bonds
 
-First, you need to be connected to Ethereum Mainnet and make sure that you have some ETH and DAI in your wallet. If you don't have DAI ready in your wallet, please refer to this on [swapping for DAI](../archived/token-sale-user-guides/swapping-for-dai.md).
+First, you need to be connected to Ethereum Mainnet and make sure that you have some ETH and DAI in your wallet. If you don't have DAI ready in your wallet, please refer to this on [swapping for DAI](broken-reference).
 
 ## Navigating to Bonds Page
 

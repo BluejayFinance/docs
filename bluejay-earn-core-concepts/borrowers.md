@@ -12,7 +12,7 @@ Borrowers can create borrower pools by providing information and proposing the t
 
 It is important to note that there is no guarantee that lenders will fully supply funds into the borrower pool. The success of a loan depends on the borrower's ability to provide enough information and convince lenders that the loan is a sound investment. This is why it's essential for borrowers to put their best foot forward, providing as much detail as possible about their business, their goals, and the terms of the loan they are proposing.
 
-If the borrower pool is fully subscribed prior to the deadline of the funding period, the borrower will be able to access the funds from the smart contract and transfer them into their wallet. The proceeds of the loan can then be used to grow the business and achieve the goals outlined in the term sheet. With Bluejay Earn, borrowers can secure the financing they need to grow their business.
+Once the loan pool has reached the minimum funding levels, the borrower will be able to access the funds from the smart contract and transfer them into their wallet. The proceeds of the loan can then be used to grow the business and achieve the goals outlined in the term sheet. With Bluejay Earn, borrowers can secure the financing they need to grow their business.
 
 ### How does repayment work?
 

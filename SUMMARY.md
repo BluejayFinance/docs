@@ -58,12 +58,3 @@
 * [Glossary](technical-resources-earn/glossary.md)
 * [Fees](technical-resources-earn/fees.md)
 * [Code Audit](technical-resources-earn/code-audit.md)
-
-## Archived
-
-* [Token Sale User Guides](archived/token-sale-user-guides/README.md)
-  * [Connecting Your Wallet](archived/token-sale-user-guides/connecting-your-wallet.md)
-  * [Swapping for DAI](archived/token-sale-user-guides/swapping-for-dai.md)
-  * [Buying BLU (for whitelisted)](archived/token-sale-user-guides/buying-blu-for-whitelisted.md)
-  * [Buying BLU (for non-whitelisted)](archived/token-sale-user-guides/buying-blu-for-non-whitelisted.md)
-* [bluSGD Launch Stages](archived/launch-stages.md)

@@ -1,15 +1,15 @@
 ---
 description: >-
-  Lenders are investors who supply bluSGD to any of the available borrower
-  pools. Lenders look across various opportunities available and participate in
-  any borrower pool after evaluating the informatio
+  Lenders are investors who lend bluSGD to borrowers. Lenders look across
+  various opportunities available and may participate in any borrower pool after
+  evaluating the information
 ---
 
 # Lenders
 
 ### Who can be a lender?
 
-Bluejay Earn enables anyone holding bluSGD to become a lender. Whether you're living in a developed market with alternative investment opportunities or in an emerging market with limited fixed income options, Bluejay Earn provides a way for you to diversify your portfolio in a sustainable way.
+Bluejay Earn enables anyone holding bluSGD to become a lender. Whether you're living in a developed market with investment opportunities still outside of your reach, in an emerging market with limited selection of financial products or in a country with restrictive capital controls, Bluejay Earn provides a way for you to diversify your portfolio in a sustainable way.
 
 ### How does it work?
 

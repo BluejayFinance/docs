@@ -8,17 +8,21 @@
 
 ### Key Problems
 
+**Business and individuals lack access to credit**
+
 The credit gap in Asia is a significant issue, with over 60% of people in Southeast Asia being underbanked and lacking access to formal financial services such as credit. This lack of access to credit is particularly challenging for business owners, who often require funding to grow and expand their operations. However, many of these businesses are unable to obtain the financing they need because of the complex transaction costs, processes, and due diligence requirements involved in obtaining loans.
 
-The root cause of these challenges is that the existing financial system is not designed to serve the needs of those who lack access to credit. Instead, it is structured to meet the needs of those who already have the means to succeed. This leaves small businesses in the region, which contribute a large portion of the GDP and employ most of the local talent, without the means to access the financing they need to take their businesses to the next level. On the flip side, investors who are looking to protect and grow their wealth across this region are also limited on opportunities in which they can invest as the barriers to entry to participate in those opportunities, such as minimum capital requirement, are simply too high.
+The root cause of these challenges is that the existing financial system is not designed to serve the needs of those who lack access to credit. Instead, it is structured to meet the needs of those who already have the means to succeed. This leaves small businesses in the region, which contribute a large portion of the GDP and employ most of the local talent, without the means to access the financing they need to take their businesses to the next level.&#x20;
 
-The advancement of decentralised financial (DeFi) applications has the potential to address these gaps. DeFi has the ability to provide financial services to those who are currently underserved by the traditional financial system. However, for DeFi to be successful in reaching these individuals, it must go where users are and help them solve their biggest challenges. By doing so, DeFi has the potential to empower small businesses in Asia to access the funding they need to grow and succeed, making a larger impact on the local economy. Bluejay is delivering a solution to solve this problem through its Earn protocol.
+**Investors lack access to a variety of financial products**
+
+On the flip side, investors who are looking to protect and grow their wealth across this region are also limited on opportunities in which they can invest as the barriers to entry to participate in those opportunities, such as minimum capital requirement as much as 200k, are simply too high.
 
 ### Bluejay’s Approach
 
 Bluejay is on a mission to tackle the credit gap problem in Asia by building a decentralized peer-to-peer credit protocol. The Earn protocol is designed to empower emerging market economies for both lenders and borrowers, providing a sustainable solution to the credit gap problem in Asia.
 
-There is a large pool of capital available on DeFi platforms that are looking for sustainable sources of yield generated from real economic activity. Bluejay Earn matches the demand for capital from small businesses across Asia with the supply of capital from investors who are looking to generate sustainable yield from real economic activity. This creates a win-win situation for both parties, as small businesses are able to access the financing they need to grow, and investors are able to generate a return from their investments.
+Bluejay Earn matches the demand for capital from small businesses across Asia with the supply of capital from investors who are looking to generate sustainable yield from real economic activities. This creates a win-win situation for both parties, as small businesses are able to access the financing they need to grow, and investors are able to generate a return from their investments.
 
 <figure><img src="../.gitbook/assets/Frame 48098955.jpg" alt=""><figcaption></figcaption></figure>
 

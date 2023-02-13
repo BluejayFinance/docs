@@ -36,7 +36,7 @@ Bluejay will be launching the complete suite of tools to support the Earn produc
 
 Following the Earn launch, Bluejay will be doubling down on scaling the products by providing additional incentives to selected Earn program and combining existing BLU staking program into a unified Rewards program.&#x20;
 
-In addition, Bluejay will be making Earn completely decentralized to allow truely P2P lending and borrowing platform. Anyone will be able to create a decentralized loan pool to borrow capital for whatever needs they have, as long as there is a market for it.&#x20;
+In addition, Bluejay will be making Earn completely decentralized to truely allow P2P lending and borrowing platform. Anyone will be able to create a decentralized loan pool to borrow capital for whatever needs they have, as long as there is a market for it.&#x20;
 
 Some key features that may be introduced to support the decentralized credit platform:
 

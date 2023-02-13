@@ -3,54 +3,64 @@
 * [Bluejay Finance Overview](README.md)
 * [Roadmap](roadmap.md)
 
-## Basics
+## What can I Do?
 
-* [Staking](basics/staking.md)
-* [Bonding](basics/bonding.md)
+* [Stake BLU](what-can-i-do/stake-blu.md)
+* [Earn bluStables](what-can-i-do/earn-blustables.md)
+* [Bond Assets](what-can-i-do/bond-assets.md)
 
 ## bluStables - Core Concepts
 
 * [Overview](blustables-core-concepts/overview.md)
 * [Treasury Bonds](blustables-core-concepts/treasury-bonds.md)
-* [Stablecoin Minting](blustables-core-concepts/stablecoin-minting.md)
 * [Stabilizing Bond](blustables-core-concepts/stabilizing-bond.md)
+* [Stablecoin Minting](blustables-core-concepts/stablecoin-minting.md)
 * [Price Stabilizer](blustables-core-concepts/price-stabilizer.md)
 * [Collateralization](blustables-core-concepts/collateralization.md)
 * [Oracle](blustables-core-concepts/oracle.md)
+* [Protocol Comparison](blustables-core-concepts/protocol-comparison.md)
 
-## FAQ
+## Bluejay Earn - Core Concepts
 
-* [Protocol Comparison](faq/protocol-comparison.md)
-* [Token Sale User Guides](faq/token-sale-user-guides/README.md)
-  * [Connecting Your Wallet](faq/token-sale-user-guides/connecting-your-wallet.md)
-  * [Swapping for DAI](faq/token-sale-user-guides/swapping-for-dai.md)
-  * [Buying BLU (for whitelisted)](faq/token-sale-user-guides/buying-blu-for-whitelisted.md)
-  * [Buying BLU (for non-whitelisted)](faq/token-sale-user-guides/buying-blu-for-non-whitelisted.md)
-* [Mainnet User Guides](faq/mainnet-user-guides/README.md)
-  * [Buying Bonds](faq/mainnet-user-guides/buying-bonds.md)
-  * [Redeeming Bonds](faq/mainnet-user-guides/redeeming-bonds.md)
-  * [Staking BLU](faq/mainnet-user-guides/staking-blu.md)
-  * [Buying and selling BLU](faq/mainnet-user-guides/buying-and-selling-blu.md)
-  * [Buying and selling bluSGD](faq/mainnet-user-guides/buying-and-selling-blusgd.md)
-  * [Peg Stability Module (PSM)](faq/mainnet-user-guides/peg-stability-module-psm.md)
-  * [Buying BLU/DAI Treasury Bonds](faq/mainnet-user-guides/getting-dai-blu-lp-tokens.md)
-  * [Buying bluSGD/DAI Treasury Bonds](faq/mainnet-user-guides/getting-dai-blusgd-lp-tokens.md)
-  * [Buying Stabilizing Bonds](faq/mainnet-user-guides/buying-stabilizing-bonds.md)
-  * [Opening Support Ticket on Discord](faq/mainnet-user-guides/opening-support-ticket-on-discord.md)
+* [Overview](bluejay-earn-core-concepts/overview.md)
+* [Lenders](bluejay-earn-core-concepts/lenders.md)
+* [Borrowers](bluejay-earn-core-concepts/borrowers.md)
+* [Loan Terms](bluejay-earn-core-concepts/loan-terms.md)
+* [Loan Lifecycle](bluejay-earn-core-concepts/loan-lifecycle.md)
+* [Legalities](bluejay-earn-core-concepts/legalities.md)
+* [Protocol Comparison](bluejay-earn-core-concepts/protocol-comparison.md)
+
+## User Guides
+
+* [Buying and selling BLU](user-guides/buying-and-selling-blu.md)
+* [Buying and selling bluSGD](user-guides/buying-and-selling-blusgd.md)
+* [Staking BLU](user-guides/staking-blu.md)
+* [Buying Bonds](user-guides/buying-bonds.md)
+* [Redeeming Bonds](user-guides/redeeming-bonds.md)
+* [Peg Stability Module (PSM)](user-guides/peg-stability-module-psm.md)
+* [Buying Stabilizing Bonds](user-guides/buying-stabilizing-bonds.md)
+* [Buying BLU/DAI Treasury Bonds](user-guides/getting-dai-blu-lp-tokens.md)
+* [Buying bluSGD/DAI Treasury Bonds](user-guides/getting-dai-blusgd-lp-tokens.md)
+* [Opening Support Ticket on Discord](user-guides/opening-support-ticket-on-discord.md)
 
 ## Technical Resources - Stablecoin
 
 * [Overview](smart-contract/overview.md)
 * [Code Audit](smart-contract/code-audit.md)
 
-## Archived
-
-* [bluSGD Launch Stages](archived/launch-stages.md)
-
 ## Technical Resources - Earn
 
-* [Protocol Overview](technical-resources-earn/protocol-overview/README.md)
-  * [Background](technical-resources-earn/protocol-overview/background.md)
-  * [Protocol Actors](technical-resources-earn/protocol-overview/protocol-actors.md)
-  * [Glossary](technical-resources-earn/protocol-overview/glossary.md)
-  * [Fees](technical-resources-earn/protocol-overview/fees.md)
+* [Background](technical-resources-earn/background.md)
+* [Architecture](technical-resources-earn/architecture.md)
+* [Protocol Actors](technical-resources-earn/protocol-actors.md)
+* [Glossary](technical-resources-earn/glossary.md)
+* [Fees](technical-resources-earn/fees.md)
+
+## Archived
+
+* [Token Sale User Guides](archived/token-sale-user-guides/README.md)
+  * [Connecting Your Wallet](archived/token-sale-user-guides/connecting-your-wallet.md)
+  * [Swapping for DAI](archived/token-sale-user-guides/swapping-for-dai.md)
+  * [Buying BLU (for whitelisted)](archived/token-sale-user-guides/buying-blu-for-whitelisted.md)
+  * [Buying BLU (for non-whitelisted)](archived/token-sale-user-guides/buying-blu-for-non-whitelisted.md)
+* [bluSGD Launch Stages](archived/launch-stages.md)

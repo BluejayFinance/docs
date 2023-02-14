@@ -2,7 +2,7 @@
 description: >-
   Bluejay Earn is in its beta stage, which means that the Bluejay Earn App, and
   all related software, including blockchain software and smart-contracts, are
-  experimental. The platform is provided on an
+  experimental.
 ---
 
 # Risk Disclosure

@@ -28,6 +28,7 @@
 * [Loan Terms](bluejay-earn-core-concepts/loan-terms.md)
 * [Types of Borrower Pools](bluejay-earn-core-concepts/types-of-borrower-pools.md)
 * [Loan Lifecycle](bluejay-earn-core-concepts/loan-lifecycle.md)
+* [Fees](bluejay-earn-core-concepts/fees.md)
 * [Legalities](bluejay-earn-core-concepts/legalities.md)
 * [Risk Disclosure](bluejay-earn-core-concepts/risk-disclosure.md)
 
@@ -54,5 +55,4 @@
 * [Background](technical-resources-earn/background.md)
 * [Protocol Actors](technical-resources-earn/protocol-actors.md)
 * [Glossary](technical-resources-earn/glossary.md)
-* [Fees](technical-resources-earn/fees.md)
 * [Code Audit](technical-resources-earn/code-audit.md)

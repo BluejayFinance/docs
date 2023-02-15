@@ -30,7 +30,6 @@
 * [Loan Lifecycle](bluejay-earn-core-concepts/loan-lifecycle.md)
 * [Legalities](bluejay-earn-core-concepts/legalities.md)
 * [Risk Disclosure](bluejay-earn-core-concepts/risk-disclosure.md)
-* [Protocol Comparison](bluejay-earn-core-concepts/protocol-comparison.md)
 
 ## User Guides
 
@@ -53,7 +52,6 @@
 ## Technical Resources - Earn
 
 * [Background](technical-resources-earn/background.md)
-* [Architecture](technical-resources-earn/architecture.md)
 * [Protocol Actors](technical-resources-earn/protocol-actors.md)
 * [Glossary](technical-resources-earn/glossary.md)
 * [Fees](technical-resources-earn/fees.md)

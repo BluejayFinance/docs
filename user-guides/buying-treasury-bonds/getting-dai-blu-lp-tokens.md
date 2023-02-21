@@ -90,6 +90,8 @@ After a few seconds, your transaction should be completed and you are now a prou
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-kss.png" alt=""><figcaption></figcaption></figure>
 
-Let's move to the next guide "[Buying bluSGD/DAI Treasury Bonds](getting-dai-blusgd-lp-tokens.md)".
+Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU.
+
+Head over to “[Redeeming Bonds](../redeeming-bonds.md)” to redeem BLU from the bonds you have bought.
 
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

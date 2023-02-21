@@ -60,6 +60,8 @@ You can go back to the main “Bonds” page to view your Purchased Bonds and tr
 
 <figure><img src="../../.gitbook/assets/SCR-20221025-m9q.png" alt=""><figcaption></figcaption></figure>
 
-Let's move to the next guide "[Buying Stabilizing Bonds](buying-stabilizing-bonds.md)".
+Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU.
+
+Head over to “[Redeeming Bonds](../redeeming-bonds.md)” to redeem BLU from the bonds you have bought.
 
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

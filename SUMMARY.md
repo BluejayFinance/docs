@@ -38,13 +38,14 @@
 * [Buying and selling bluSGD](user-guides/buying-and-selling-blusgd/README.md)
   * [Buying and selling bluSGD via Uniswap](user-guides/buying-and-selling-blusgd/buying-and-selling-blusgd-via-uniswap.md)
   * [Buying and selling bluSGD via Peg Stability Module (PSM)](user-guides/buying-and-selling-blusgd/buying-and-selling-blusgd-via-peg-stability-module-psm.md)
+* [Buying Treasury Bonds](user-guides/buying-treasury-bonds/README.md)
+  * [Buying DAI Treasury Bonds](user-guides/buying-treasury-bonds/buying-bonds.md)
+  * [Buying BLU/DAI Treasury Bonds](user-guides/buying-treasury-bonds/getting-dai-blu-lp-tokens.md)
+  * [Buying bluSGD/DAI Treasury Bonds](user-guides/buying-treasury-bonds/getting-dai-blusgd-lp-tokens.md)
 * [Buying and selling BLU](user-guides/buying-and-selling-blu.md)
 * [Staking BLU](user-guides/staking-blu.md)
-* [Buying Bonds](user-guides/buying-bonds.md)
 * [Redeeming Bonds](user-guides/redeeming-bonds.md)
 * [Buying Stabilizing Bonds](user-guides/buying-stabilizing-bonds.md)
-* [Buying BLU/DAI Treasury Bonds](user-guides/getting-dai-blu-lp-tokens.md)
-* [Buying bluSGD/DAI Treasury Bonds](user-guides/getting-dai-blusgd-lp-tokens.md)
 * [Opening Support Ticket on Discord](user-guides/opening-support-ticket-on-discord.md)
 
 ## Technical Resources - Stablecoin

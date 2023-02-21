@@ -34,6 +34,7 @@
 
 ## User Guides
 
+* [Connecting Your Wallet](user-guides/connecting-your-wallet.md)
 * [Buying and selling BLU](user-guides/buying-and-selling-blu.md)
 * [Buying and selling bluSGD](user-guides/buying-and-selling-blusgd.md)
 * [Staking BLU](user-guides/staking-blu.md)

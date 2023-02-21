@@ -35,12 +35,13 @@
 ## User Guides
 
 * [Connecting Your Wallet](user-guides/connecting-your-wallet.md)
+* [Buying and selling bluSGD](user-guides/buying-and-selling-blusgd/README.md)
+  * [Buying and selling bluSGD via Uniswap](user-guides/buying-and-selling-blusgd/buying-and-selling-blusgd-via-uniswap.md)
+  * [Buying and selling bluSGD via Peg Stability Module (PSM)](user-guides/buying-and-selling-blusgd/buying-and-selling-blusgd-via-peg-stability-module-psm.md)
 * [Buying and selling BLU](user-guides/buying-and-selling-blu.md)
-* [Buying and selling bluSGD](user-guides/buying-and-selling-blusgd.md)
 * [Staking BLU](user-guides/staking-blu.md)
 * [Buying Bonds](user-guides/buying-bonds.md)
 * [Redeeming Bonds](user-guides/redeeming-bonds.md)
-* [Peg Stability Module (PSM)](user-guides/peg-stability-module-psm.md)
 * [Buying Stabilizing Bonds](user-guides/buying-stabilizing-bonds.md)
 * [Buying BLU/DAI Treasury Bonds](user-guides/getting-dai-blu-lp-tokens.md)
 * [Buying bluSGD/DAI Treasury Bonds](user-guides/getting-dai-blusgd-lp-tokens.md)

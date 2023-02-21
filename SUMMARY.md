@@ -42,10 +42,11 @@
   * [Buying DAI Treasury Bonds](user-guides/buying-treasury-bonds/buying-bonds.md)
   * [Buying BLU/DAI Treasury Bonds](user-guides/buying-treasury-bonds/getting-dai-blu-lp-tokens.md)
   * [Buying bluSGD/DAI Treasury Bonds](user-guides/buying-treasury-bonds/getting-dai-blusgd-lp-tokens.md)
+* [Buying Stabilizing Bonds](user-guides/buying-stabilizing-bonds/README.md)
+  * [Buying bluSGD/DAI Stabilizing Bonds](user-guides/buying-stabilizing-bonds/buying-blusgd-dai-stabilizing-bonds.md)
+* [Redeeming Bonds](user-guides/redeeming-bonds.md)
 * [Buying and selling BLU](user-guides/buying-and-selling-blu.md)
 * [Staking BLU](user-guides/staking-blu.md)
-* [Redeeming Bonds](user-guides/redeeming-bonds.md)
-* [Buying Stabilizing Bonds](user-guides/buying-stabilizing-bonds.md)
 * [Opening Support Ticket on Discord](user-guides/opening-support-ticket-on-discord.md)
 
 ## Technical Resources - Stablecoin

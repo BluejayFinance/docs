@@ -2,18 +2,11 @@
 
 You can buy and sell BLU on Uniswap easily with strong liquidity backing. In this guide, we will focus on buying BLU. But, selling works the same way too in the opposite direction.
 
-## Getting BLU
-
-To buy and sell BLU you must first redeem BLU by buying Bonds. If you haven’t done those, please follow the steps below first:
-
-1. [Buying Bonds](buying-treasury-bonds/buying-bonds.md)
-2. [Redeeming Bonds](redeeming-bonds.md)
-
-Once some BLU is secured in your Wallet, we can proceed with importing DAI and BLU on Uniswap.
+## Buying BLU
 
 {% @arcade/embed flowId="4rbLDdqzjXjBhGwCGzNT" url="https://app.arcade.software/share/4rbLDdqzjXjBhGwCGzNT" %}
 
-## Buying BLU
+##
 
 Follow the steps below to buy BLU.
 
@@ -37,7 +30,7 @@ Follow the steps below to buy BLU.
 
 <figure><img src="../.gitbook/assets/ApproveDAIUniswap.png" alt=""><figcaption></figcaption></figure>
 
-#### Once you have imported the DAI token, you can proceed to buy BLU.
+#### Once you have approved the DAI token, you can proceed to buy BLU.
 
 6\. Click on “**Review Swap**”.
 
@@ -73,6 +66,6 @@ Follow the steps below if you would like to sell BLU.
 
 <figure><img src="../.gitbook/assets/SCR-20221025-ih0.png" alt=""><figcaption></figcaption></figure>
 
-Move to the next guide “[Buying and Selling bluSGD](buying-and-selling-blu.md)”.
+
 
 If you require further technical support, you can [open a support ticket](broken-reference) on our discord channel ([https://discord.gg/4DMsg555KT](https://discord.gg/4DMsg555KT)).&#x20;

@@ -57,6 +57,7 @@
 ## Technical Resources - Earn
 
 * [Background](technical-resources-earn/background.md)
+* [Overview](technical-resources-earn/overview.md)
 * [Protocol Actors](technical-resources-earn/protocol-actors.md)
 * [Glossary](technical-resources-earn/glossary.md)
 * [Code Audit](technical-resources-earn/code-audit.md)

@@ -3,8 +3,8 @@
 ### Summary
 
 * Bluejay Earn is a decentralised peer-to-peer credit protocol.
-* Lenders can participate in any borrower pool available to lend out their bluSGD, without minimum capital requirement, to borrowers at a fixed interest rate over the duration of that borrower pool.
-* Borrowers can directly raise funds from lenders by creating borrower pools and leverage DeFi as a source of efficient capital.
+* Investors can participate in any loan pool available to lend out their bluSGD, without minimum capital requirement, to borrowers at a fixed interest rate over the duration of that borrower pool.
+* Borrowers can directly raise funds from investors by creating loan pools and leverage DeFi as a source of efficient capital.
 
 ### Key Problems
 
@@ -32,6 +32,6 @@ Bluejay is focused on empowering emerging market economies by providing a platfo
 
 The protocol depends on two groups of stakeholders, the lenders and borrowers
 
-**Lenders** provide capital by lending their bluSGD stablecoins into various borrowing opportunities (“Borrower Pools”). This enables lenders to earn fixed interest rate on the stablecoins that they have lent out.
+**Investors** provide capital by lending their bluSGD stablecoins into various lending opportunities (“Loan Pools”). This enables investors to earn fixed interest rate on the stablecoins that they have lent out.
 
-**Borrowers** propose and raise capital by creating borrower pools in which the lenders can deposit their bluSGD stablecoins. Borrowers generate yield for lenders from real productive usage to accelerate their economic growth.
+**Borrowers** propose and raise capital by creating borrower pools in which the investors can deposit their bluSGD stablecoins. Borrowers generate yield for investors from real productive usage to accelerate their economic growth.

@@ -17,15 +17,15 @@ In this section we will be covering important legal and regulatory aspects for y
 
 ## The role of the protocol
 
-Bluejay Earn is a decentralised credit protocol that provides a platform for borrowers and lenders to interact and transact. The protocol acts as a marketplace for loan pools and enables lenders to earn yield by participating in these pools. The role of the protocol is to facilitate the lending and borrowing process by connecting borrowers and lenders.
+Bluejay Earn is a decentralised credit protocol that provides a platform for borrowers and investors to interact and transact. The protocol acts as a marketplace for loan pools and enables investors to earn yield by participating in these pools. The role of the protocol is to facilitate the lending and borrowing process by connecting borrowers and investors.
 
-However, it is important to note that the protocol is not a counterparty to the loan and thus, the protocol is not responsible for ensuring the accuracy of information presented by the borrower, and for providing legal opinion. Furthermore, the protocol does not act as a guarantor to the loan and does not provide securities to the loan. The protocol simply provides the platform as-is and does not participate directly in the deals. Lenders are responsible for performing their own due diligence prior to depositing funds in any available borrower pools. The protocol acts as a facilitator, providing the tools and infrastructure to support lending and borrowing, but it is up to the lenders to assess the risk and make informed decisions and the borrowers to ensure provisioning of accurate information and regulatory compliance. This decentralised structure provides a secure, efficient and more accessible alternative to traditional lending and borrowing methods.
+However, it is important to note that the protocol is not a counterparty to the loan and thus, the protocol is not responsible for ensuring the accuracy of information presented by the borrower, and for providing legal opinion. Furthermore, the protocol does not act as a guarantor to the loan and does not provide securities to the loan. The protocol simply provides the platform as-is and does not participate directly in the deals. Investors are responsible for performing their own due diligence prior to depositing funds in any available borrower pools. The protocol acts as a facilitator, providing the tools and infrastructure to support lending and borrowing, but it is up to the investors to assess the risk and make informed decisions and the borrowers to ensure provisioning of accurate information and regulatory compliance. This decentralised structure provides a secure, efficient and more accessible alternative to traditional lending and borrowing methods.
 
 During the beta phase of the protocol, Bluejay Earn may facilitate the onboarding of select borrowers who are not yet familiar with borrowing and lending in the DeFi space. This service is designed to help the borrowers get up to speed with the process and to ensure that they are able to participate in the loan pools effectively.&#x20;
 
 ## Flow of Funds
 
-Lenders will be depositing their funds directly into a borrower pool using bluSGD stablecoins. Borrowers will interact with the protocol to withdraw funds (deployment) or to deposit funds (repayment) using bluSGD stablecoins. Refer to the following diagram to understand the high-level workflow. Note that specific flow of funds documents can be found in the dataroom of each borrower pool.
+Investors will be depositing their funds directly into a borrower pool using bluSGD stablecoins. Borrowers will interact with the protocol to withdraw funds (deployment) or to deposit funds (repayment) using bluSGD stablecoins. Refer to the following diagram to understand the high-level workflow. Note that specific flow of funds documents can be found in the dataroom of each borrower pool.
 
 <figure><img src="https://lh3.googleusercontent.com/uZM0ftdPvym8LD1vrQAzD3x2EsDkptI8tHTHqFjE87wWyZOVUw65VosoYBmgxKHShO_F_q9Lj1kyHcclIQTjPUSlH6SqSO_TJefRDLgYThxAoF_hrJSO3xDIvIwvnGcIN8OlRUA-r2g-zGAbZXFHMVQ" alt=""><figcaption></figcaption></figure>
 
@@ -51,14 +51,14 @@ Special Purpose Vehicle (“SPV”): this is used as an intermediary to facilita
 
 When the borrower fails to pay beyond the grace period, the loan will start to incur a late fee which is added on top of the initial interest rate.
 
-Borrowers are responsible for specifying what kind of recourse is available to the lenders under the loan terms. Since lenders are holding loan pool tokens proportional to the loan provided, they may form a lenders collective (or mini-DAO) to deliberate on further actions.&#x20;
+Borrowers are responsible for specifying what kind of recourse is available to the investors under the loan terms. Since investors are holding loan pool tokens proportional to the loan provided, they may form a investors collective (or mini-DAO) to deliberate on further actions.&#x20;
 
-This process may involve additional cost on the lenders to appoint legal or non-legal representatives to seek recourse or pursue the borrower directly.
+This process may involve additional cost on the investors to appoint legal or non-legal representatives to seek recourse or pursue the borrower directly.
 
-For selected pools where Bluejay acts as a facilitator, the lenders collective may request for Bluejay to facilitate such proceedings. Cost involved with proceedings will still be borne by the lenders collective.
+For selected pools where Bluejay acts as a facilitator, the investors collective may request for Bluejay to facilitate such proceedings. Cost involved with proceedings will still be borne by the investors' collective.
 
 Note that this is a generalised version of the default procedure. Refer to dataroom of specific deals to see respective procedures for dealing with default.
 
 ### Limitation of Liability
 
-The protocol shall not be liable to the lenders and borrowers for any loss, damages, expenses, claims, costs (including, but not limited to legal costs), expenses arising from all circumstances. The protocol is not responsible for any loss of profits or special, exemplary, consequential or punitive damages, even if informed of the possibility of such damages.
+The protocol shall not be liable to the investors and borrowers for any loss, damages, expenses, claims, costs (including, but not limited to legal costs), expenses arising from all circumstances. The protocol is not responsible for any loss of profits or special, exemplary, consequential or punitive damages, even if informed of the possibility of such damages.

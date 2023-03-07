@@ -8,7 +8,7 @@ description: There are two types of loan pools that will be available on the pro
 
 These are loan pools which were created permissionless-ly. Similarly to how Uniswap enables anyone to create a market between two different assets, Earn protocol enables anyone to create a borrower pool.
 
-Lenders are strongly encouraged to perform extensive due diligence before making a decision.
+Investors are strongly encouraged to perform extensive due diligence before making a decision.
 
 {% hint style="info" %}
 Permissionless pools are not yet available in the beta launch.&#x20;

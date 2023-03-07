@@ -28,5 +28,5 @@ As such, the fees are not applied in the following scenarios:
 * When a pool has met not met the minimum funding by the funding end time.
 * When a pool has met the minimum funding but the borrower did not manage to drawdown in time.&#x20;
 
-In both of such scenario, the lenders will be refunded in full.&#x20;
+In both of such scenario, the investors will be refunded in full.&#x20;
 

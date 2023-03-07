@@ -23,7 +23,7 @@
 ## Bluejay Earn - Core Concepts
 
 * [Overview](bluejay-earn-core-concepts/overview.md)
-* [Lenders](bluejay-earn-core-concepts/lenders.md)
+* [Investors](bluejay-earn-core-concepts/investors.md)
 * [Borrowers](bluejay-earn-core-concepts/borrowers.md)
 * [Loan Terms](bluejay-earn-core-concepts/loan-terms.md)
 * [Types of Loan Pools](bluejay-earn-core-concepts/types-of-loan-pools.md)

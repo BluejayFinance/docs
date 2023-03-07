@@ -39,4 +39,4 @@ Having said that, there are some examples of financing types that are more commo
 5. Working capital financing
 6. Line of credit
 
-When preparing to propose borrower pools, borrowers are strongly encouraged to describe the type of financing being proposed clearly to help lenders properly assess risks associated with each type of financing.
+When preparing to propose borrower pools, borrowers are strongly encouraged to describe the type of financing being proposed clearly to help investors properly assess risks associated with each type of financing.

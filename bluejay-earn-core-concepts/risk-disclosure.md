@@ -7,11 +7,11 @@ description: >-
 
 # Risk Disclosure
 
-Investing in alternative investment opportunities is a high risk endeavour. Lenders are strongly encouraged to carefully evaluate opportunities available to them. It is necessary before lenders make any decision, they should understand the following:
+Investing in alternative investment opportunities is a high risk endeavour. Investors are strongly encouraged to carefully evaluate opportunities available to them. It is necessary before investors make any decision, they should understand the following:
 
-**100% loss of invested capital**: investment in any amount in any opportunity does not guarantee returns. The lender may lose their principal partially or in full. Lending is a risky affair and lenders may not be able to recover, on a timely basis or at all, the full principal and/or the return accrued there on.
+**100% loss of invested capital**: investment in any amount in any opportunity does not guarantee returns. The investor may lose their principal partially or in full. Lending is a risky affair and investors may not be able to recover, on a timely basis or at all, the full principal and/or the return accrued there on.
 
-**Past performance and forecasts**: Borrowers may have presented certain forward-looking information based on past performance and certain assumptions which may be relevant for current macroeconomic scenarios. However, past performance is not a reliable indicator of future performance. Lenders should not rely on any past performance as a guarantee of future performance. Forecasts may also not be a reliable indicator of future performance.
+**Past performance and forecasts**: Borrowers may have presented certain forward-looking information based on past performance and certain assumptions which may be relevant for current macroeconomic scenarios. However, past performance is not a reliable indicator of future performance. Investors should not rely on any past performance as a guarantee of future performance. Forecasts may also not be a reliable indicator of future performance.
 
 **Incomplete information**: Information and data presented by the borrowers may not be complete and accurate. There may be some information related to the borrower or its underlying collateral which may not be shared due to confidentiality which otherwise may have material adverse impact. The protocol, as a platform, is not obligated to ensure accuracy and completeness of the information.
 

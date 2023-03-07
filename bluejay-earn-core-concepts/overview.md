@@ -2,7 +2,7 @@
 
 ### Summary
 
-* Bluejay Earn is a decentralised peer-to-peer fixed income protocol that helps investors get access to diversified, and consistent returns of 7%+ APY by lending out stablecoins to borrowers.
+* Bluejay Earn is a decentralised fixed income protocol that helps investors get access to diversified, and consistent returns of 7%+ APY by lending out stablecoins to borrowers.
 * Investors can participate in any loan pool available to lend out their bluSGD, without minimum capital requirement, to borrowers at a fixed interest rate over the duration of that borrower pool.
 * Borrowers can directly raise funds from investors by creating loan pools and leverage DeFi as a source of efficient capital.
 
@@ -20,7 +20,7 @@ On the flip side, investors who are looking to protect and grow their wealth acr
 
 ### Bluejay’s Approach
 
-Bluejay is on a mission to tackle the credit gap problem in Asia by building a decentralized peer-to-peer fixed income protocol. The Earn protocol is designed to empower emerging market economies for both investors and borrowers, providing a sustainable solution to the credit gap problem in Asia.
+Bluejay is on a mission to tackle the credit gap problem in Asia by building a decentralized fixed income protocol. The Earn protocol is designed to empower emerging market economies for both investors and borrowers, providing a sustainable solution to the credit gap problem in Asia.
 
 Bluejay Earn matches the demand for capital from small businesses across Asia with the supply of capital from investors who are looking to generate consistent returns from real economic activities. This creates a win-win situation for both parties, as small businesses are able to access the financing they need to grow, and investors are able to generate consistent returns from a diversified portfolio of investments.
 

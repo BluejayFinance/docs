@@ -26,7 +26,7 @@
 * [Lenders](bluejay-earn-core-concepts/lenders.md)
 * [Borrowers](bluejay-earn-core-concepts/borrowers.md)
 * [Loan Terms](bluejay-earn-core-concepts/loan-terms.md)
-* [Types of Borrower Pools](bluejay-earn-core-concepts/types-of-borrower-pools.md)
+* [Types of Loan Pools](bluejay-earn-core-concepts/types-of-loan-pools.md)
 * [Loan Lifecycle](bluejay-earn-core-concepts/loan-lifecycle.md)
 * [Fees](bluejay-earn-core-concepts/fees.md)
 * [Legalities](bluejay-earn-core-concepts/legalities.md)

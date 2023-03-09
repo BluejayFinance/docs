@@ -6,25 +6,29 @@ description: Money without borders
 
 ### What is Bluejay Finance?
 
-Bluejay Finance is a capital-efficient decentralized stablecoin protocol for issuing stablecoins pegged to real-world currencies. Every stablecoin issued is backed by protocol-owned liquidity.
+Bluejay Finance is a decentralized finance protocol that aims to provide decentralized financial services to the masses by building solutions on top of decentralized local stablecoins. Our first product is a fixed income solution that provides investors with consistent and diversified returns. In addition, we offer the issuance of stablecoins pegged to real-world currencies with capital-efficient liquidity, creating new opportunities for users to transact and invest with minimized currency exchange risk.
 
 ### Why Bluejay Finance?
 
-The introduction of USD stablecoins has allowed individuals and businesses to not only pay and receive payments but also to gain access to a wide variety of financial services like money exchanges (ie [Uniswap](https://uniswap.org/)), investments (ie [Synthetix](https://synthetix.io/)), asset management (ie [Yearn](https://yearn.finance/)), etc. This has helped reduce inequality by democratizing access to financial services, even for the underbanked population (ie [Nigerians using DAI](https://www.coindesk.com/markets/2021/03/15/nigerians-turn-to-stablecoins-for-protection-against-inflation/)).
+Bluejay Finance was founded to address the issues of financial exclusion and lack of accessibility faced by many users. Traditional financial services often impose barriers that make it difficult for certain individuals and businesses to access their services. This can include high minimum investments, complicated processes, and limited exposure to different currencies.
 
-However, most stablecoin solutions are centered around USD and not designed for other currencies. This means that users do not have a choice of having exposure to currencies other than USD in the DeFi space.
+DeFi, or decentralized finance, has emerged as a potential solution to these issues, but it too faces certain limitations. Many stablecoin solutions only offer USD-pegged stablecoins, which restricts users' exposure to other currencies in the DeFi space. This lack of choice can be a hindrance to businesses and individuals looking to transact with minimized currency exchange risk.
 
-By having stablecoins of different currencies around the world on the blockchain, we lower the barrier for businesses and individuals in these countries to transact with minimized currency exchange risk. This helps to widen the product offerings of existing DeFi companies that provide crypto invoicing (ie [Request](https://request.network/en/)), streaming payments (ie [Sablier](https://sablier.finance/)), etc.
-
-The ultimate goal of Bluejay Finance is to lower inequality by providing and enabling equal access to low-cost financial services for all.
+Bluejay Finance seeks to solve both of these problems by offering stablecoins pegged to a range of real-world currencies on the blockchain. This provides businesses and individuals with greater flexibility and choice when it comes to transacting and investing in different assets. In addition, Bluejay Finance's decentralized fixed income product, built on top of these stablecoins, provides investors with a low-risk and low-volatility investment option that requires no minimum investment requirements or complicated KYC processes.
 
 ### How do I participate in Bluejay Finance?
 
-There are two main strategies for market participants: Staking and Bonding. Stakers stake their BLU tokens in exchange for more BLU tokens while bonders provide liquidity or DAI tokens in exchange for discounted BLU after a vesting period.
+Bluejay Finance offers various ways for market participants to participate in the protocol. A first strategy is fixed income investing, which allows users to invest their stablecoins in high-yield fixed income products. This offers an opportunity for investors to achieve their investment goals by providing access to a variety of financial products that may have been previously inaccessible due to high minimum investment sizes or accreditation requirements.
 
-In addition, you can participate in growing the protocol by partaking in governance on our community discord. We welcome any help and initiatives to support and grow the protocol to one that the world deserves.
+The second strategy is staking, which allows users to stake their BLU tokens in exchange for more BLU tokens. Another strategy is bonding, which involves providing liquidity or DAI tokens in exchange for discounted BLU after a vesting period. 
+
+Finally, users can participate in growing the protocol by partaking in governance on the community discord. Bluejay Finance welcomes any help and initiatives to support and grow the protocol to one that the world deserves.
 
 ### How can I benefit from Bluejay Finance?
+
+#### Investors
+
+Investors can benefit from Bluejay Finance by experiencing consistent returns of 7%+ and diversifying their portfolios with our fixed income solutions. Our solutions are designed to deliver high returns without the volatility of the market, offering access to an asset class typically reserved for institutions and high net-worth individuals. The best part is that there is no minimum investment required, making our solutions accessible to all. By investing in Bluejay Finance, investors can expect to achieve their desired returns while diversifying their portfolios with a low-risk asset class.
 
 #### Stakers
 

@@ -22,7 +22,7 @@ Follow these steps to get the BLU/DAI LP token:
 
 1. Go to Bluejay site “Dashboard” and click on “**Wallet**” in the top right corner.
 
-<figure><img src="../../.gitbook/assets/SCR-20221025-htq (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20221025-htq (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the swap button beside “**BLU/DAI LP**” under “LP Tokens”. This will redirect you to Uniswap site.
 
@@ -38,7 +38,7 @@ Follow these steps to get the BLU/DAI LP token:
 
 5\. You will see a Metmask popup to confirm the transaction. Click on “**Confirm**”.
 
-<figure><img src="../../.gitbook/assets/LPConfirm (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LPConfirm.png" alt=""><figcaption></figcaption></figure>
 
 6\. Click on the “**Supply**” button.
 
@@ -72,7 +72,7 @@ Before you can proceed to buy the bond, you must approve DAI/BLU LP. This is a o
 
 4\. You will see a Metamask popup to confirm the transaction. Click on “**Confirm**”.
 
-<figure><img src="../../.gitbook/assets/LPConfirm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LPConfirm (1).png" alt=""><figcaption></figcaption></figure>
 
 You can now proceed to buy the BLU/DAI LP Treasury Bond.
 

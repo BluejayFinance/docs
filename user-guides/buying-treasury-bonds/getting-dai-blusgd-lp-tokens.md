@@ -12,7 +12,7 @@ Follow these steps to get the bluSGD/DAI LP token:
 
 1. Go to Bluejay site “Dashboard” and click on “**Wallet**” in the top right corner.
 
-<figure><img src="../../.gitbook/assets/SCR-20221025-htq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20221025-htq (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Then click on the swap button beside “**bluSGD/DAI** LP” under “LP Tokens”. This will redirect you to Uniswap site.
 

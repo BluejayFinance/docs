@@ -12,7 +12,7 @@ Follow the steps below to buy BLU.
 
 1. Go to the Bluejay site and click on “**Wallet**” in the top right corner.
 
-<figure><img src="../.gitbook/assets/SCR-20221025-htq (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SCR-20221025-htq (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Then click on the swap button beside “BLU” under “Bluejay Assets”.
 
@@ -46,7 +46,7 @@ Follow the steps below to buy BLU.
 
 9\. And, viola, you are now a proud holder of BLU.
 
-<figure><img src="../.gitbook/assets/SCR-20221025-i84 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SCR-20221025-i84.png" alt=""><figcaption></figcaption></figure>
 
 ## Selling BLU
 
@@ -56,7 +56,7 @@ Follow the steps below if you would like to sell BLU.
 
 1. Click on the swap button indicated in the image to sell BLU.
 
-<figure><img src="../.gitbook/assets/SCR-20221025-ib0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SCR-20221025-ib0.png" alt=""><figcaption></figcaption></figure>
 
 2\. You will be required to approve BLU before selling it. Click on "**Approve BLU**" and then confirm the transaction on the Metamask popup.
 

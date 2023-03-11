@@ -65,7 +65,7 @@ Follow the instructions below to purchase your first bond:
 
 2\. You will see a Metamask popup asking you to confirm the transaction. Click on “**Confirm**”.
 
-<figure><img src="../../.gitbook/assets/click_on_confirm (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/click_on_confirm (3).png" alt=""><figcaption></figcaption></figure>
 
 3\. After a few seconds, your transaction should be completed and you are now a proud DAI Treasury Bond owner.
 

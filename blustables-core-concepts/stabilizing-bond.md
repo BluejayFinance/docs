@@ -6,7 +6,7 @@ Stabilizing bonds are bonds that help to correct the liquidity pool's price to b
 
 The bonds allow the protocol to acquire reserve assets (like DAI) to either mint and sell more stablecoins or to buy back stablecoins from the market. The type of bond offered depends on the direction of the price deviation and the discount offered depends on the magnitude of price deviation. The protocol also defines a small tolerance level where neither bonds are sold because the price deviation of the stablecoin is inconsequential.
 
-![Dynamic pricing and sale of stabilizing bonds](<../.gitbook/assets/Stabilizing Bonds.png>)
+![Dynamic pricing and sale of stabilizing bonds](<../.gitbook/assets/Stabilizing Bonds (1).png>)
 
 ### Expansionary Bonds
 

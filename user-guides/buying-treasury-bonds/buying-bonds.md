@@ -60,7 +60,7 @@ Follow the instructions below to purchase your first bond:
 
 2\. You will see a Metamask popup asking you to confirm the transaction. Click on “**Confirm**”.
 
-<figure><img src="../../.gitbook/assets/click_on_confirm (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/click_on_confirm (3).png" alt=""><figcaption></figcaption></figure>
 
 3\. After a few seconds, your transaction should be completed and you are now a proud DAI Treasury Bond owner.
 
@@ -68,7 +68,7 @@ Follow the instructions below to purchase your first bond:
 
 4\. You can go back to the main “**Bonds**” page to see your Purchased Bonds and track their respective maturity.
 
-<figure><img src="../../.gitbook/assets/SCR-20221025-f4y.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20221025-f4y (1).png" alt=""><figcaption></figcaption></figure>
 
 Once a bond is matured, you can click on either “Redeem BLU” or “Redeem & Stake” to get BLU.
 

@@ -61,7 +61,7 @@ Follow the steps below if you would like to sell bluSGD.&#x20;
 
 2\. You will be required to approve bluSGD before selling it. Click on "**Approve**" and then confirm the transaction on the Metamask popup.
 
-<figure><img src="../../.gitbook/assets/SCR-20221025-jb7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCR-20221025-jb7 (1).png" alt=""><figcaption></figcaption></figure>
 
 3.We can then proceed to sell bluSGD. Follow steps 4-6 from above to sell bluSGD.
 

@@ -38,7 +38,7 @@
 * [Buying and selling bluSGD](user-guides/buying-and-selling-blusgd/README.md)
   * [Buying and selling bluSGD via Uniswap](user-guides/buying-and-selling-blusgd/buying-and-selling-blusgd-via-uniswap.md)
   * [Buying and selling bluSGD via Peg Stability Module (PSM)](user-guides/buying-and-selling-blusgd/buying-and-selling-blusgd-via-peg-stability-module-psm.md)
-* [Earning Yield with bluSGD](user-guides/earning-yield-with-blusgd/README.md)
+* [Earning Yield with bluSGD](user-guides/investing-blusgd/README.md)
   * [Investing funds in a loan pool](user-guides/earning-yield-with-blusgd/investing-funds-in-a-loan-pool.md)
   * [Withdrawing funds from a loan pool](user-guides/earning-yield-with-blusgd/withdrawing-funds-from-a-loan-pool.md)
 * [Buying Treasury Bonds](user-guides/buying-treasury-bonds/README.md)

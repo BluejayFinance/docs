@@ -4,7 +4,7 @@ description: >-
   minimal slippage, starting with xSGD.
 ---
 
-# Peg Stability Module (PSM)
+# Buying and selling bluSGD via Peg Stability Module (PSM)
 
 {% @arcade/embed flowId="nYrGDqUjk7R0BJ8dDhRN" url="https://app.arcade.software/share/nYrGDqUjk7R0BJ8dDhRN" %}
 
@@ -26,7 +26,7 @@ If you are an xSGD holder and are looking to swap into bluSGD, follow the steps 
 
 4\. You will then see a Metamask popup asking you to confirm the transaction. Click on “Confirm” to approve.
 
-![](../../.gitbook/assets/3.png)
+![](<../../.gitbook/assets/3 (2).png>)
 
 5\. Once you have approved xSGD, you may proceed to swap any amount of xSGD to bluSGD.
 

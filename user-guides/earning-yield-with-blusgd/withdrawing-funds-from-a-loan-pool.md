@@ -1,10 +1,10 @@
-# Withdrawing bluSGD from an investment pool
+# Withdrawing funds from a loan pool
 
-[After investing in an investment pool](investing-blusgd-in-an-investment-pool.md), you can expect to withdraw your funds at a specified time based on the loan terms, once the pool has reached the funding goal and the borrower has drawn down the loan.
+[After investing in an loan pool](investing-funds-in-a-loan-pool.md), you can expect to withdraw your funds at a specific time based on the loan terms.
 
 This means that you will have to wait until the borrower has fully utilized the loan and started making repayments as per the loan agreement. Once the borrower starts making repayments, you can expect to receive your portion of the repayment amount based on the percentage of funds you have invested in the pool.
 
-It's important to note that the specified time for withdrawing funds may vary depending on the loan terms and conditions. Therefore, it's recommended to carefully review the deal terms before investing in a pool.
+It's important to note that the specific time for withdrawing funds may vary depending on the loan terms and conditions. Therefore, it's recommended to carefully review the deal terms before investing in a pool.
 
 Follow the instructions below to withdraw funds from your invested pool:
 

@@ -52,6 +52,16 @@
 * [Staking BLU](user-guides/staking-blu.md)
 * [Opening Support Ticket on Discord](user-guides/opening-support-ticket-on-discord.md)
 
+***
+
+* [Frequently Asked Questions](frequently-asked-questions/README.md)
+  * [FAQs on BLU](frequently-asked-questions/faqs-on-blu/README.md)
+    * [FAQs on Staking BLU](frequently-asked-questions/faqs-on-blu/faqs-on-staking-blu.md)
+    * [FAQs on Bonds](frequently-asked-questions/faqs-on-blu/faqs-on-bonds.md)
+    * [FAQs on pBLU](frequently-asked-questions/faqs-on-blu/faqs-on-pblu.md)
+  * [FAQs on bluSGD](frequently-asked-questions/faqs-on-blusgd.md)
+  * [FAQs on Bluejay Earn](frequently-asked-questions/faqs-on-bluejay-earn.md)
+
 ## Technical Resources - Stablecoin
 
 * [Overview](smart-contract/overview.md)

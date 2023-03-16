@@ -28,6 +28,10 @@ Bluejay's Stablecoin protocol was launched on Rinkeby and Goerli Testnet with ov
 
 Bluejay will be launching our decentralised lending platform with selected Beta partners to offer previously inaccessible financial products to all. These are high quality products that were previously out of reach to the masses usually due to the high minimum investments required.&#x20;
 
+{% hint style="info" %}
+The launch has been confirmed to be on 20th Mar 2023 at 10am Singapore Time (GMT +8) in [this blog post](https://medium.com/bluejay-finance/introducing-bluejay-earn-135a97358c92). &#x20;
+{% endhint %}
+
 **Q2 2023 - Earn Official Launch**
 
 Bluejay will be launching the complete suite of tools to support the Earn product with focus on bringing more high quality borrowers onboard to provide earning opportunities in a decentralised fashion.&#x20;

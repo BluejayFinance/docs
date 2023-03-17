@@ -61,6 +61,7 @@
     * [FAQs on pBLU](frequently-asked-questions/faqs-on-blu/faqs-on-pblu.md)
   * [FAQs on bluSGD](frequently-asked-questions/faqs-on-blusgd.md)
   * [FAQs on Bluejay Earn](frequently-asked-questions/faqs-on-bluejay-earn.md)
+  * [FAQs](frequently-asked-questions/faqs.md)
 
 ## Technical Resources - Stablecoin
 

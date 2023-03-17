@@ -54,14 +54,7 @@
 
 ***
 
-* [Frequently Asked Questions](frequently-asked-questions/README.md)
-  * [FAQs on BLU](frequently-asked-questions/faqs-on-blu/README.md)
-    * [FAQs on Staking BLU](frequently-asked-questions/faqs-on-blu/faqs-on-staking-blu.md)
-    * [FAQs on Bonds](frequently-asked-questions/faqs-on-blu/faqs-on-bonds.md)
-    * [FAQs on pBLU](frequently-asked-questions/faqs-on-blu/faqs-on-pblu.md)
-  * [FAQs on bluSGD](frequently-asked-questions/faqs-on-blusgd.md)
-  * [FAQs on Bluejay Earn](frequently-asked-questions/faqs-on-bluejay-earn.md)
-  * [FAQs](frequently-asked-questions/faqs.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 
 ## Technical Resources - Stablecoin
 

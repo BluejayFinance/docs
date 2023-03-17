@@ -54,7 +54,7 @@
 
 ***
 
-* [Frequently Asked Questions](frequently-asked-questions.md)
+* [Frequently Asked Questions](frequently-asked-questions/README.md)
 
 ## Technical Resources - Stablecoin
 

@@ -280,7 +280,7 @@ Bonding is a process to allow Bluejay to acquire its own liquidity and reserve a
 
 You may buy BLU bonds if you want to trade assets you have to get BLU tokens at the discounted price after the vesting period.
 
-Do note that since as you are effectively purchasing the BLU tokens, you are exposed to the volatility of the BLU token price. Please read section on “**Why should I buy BLU**” and “**Why is BLU price going up/down?**”
+Do note that since as you are effectively purchasing the BLU tokens, you are exposed to the volatility of the BLU token price. Please read section on “[**Why should I buy BLU**](./#why-should-i-buy-blu)” and “[**Why is BLU price going up/down**](./#why-is-blu-price-going-up-down)**?**”
 
 </details>
 

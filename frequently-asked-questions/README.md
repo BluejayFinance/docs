@@ -565,8 +565,6 @@ One example is that a business in Philippines who is sending invoice and receivi
 
 ## FAQs on Bluejay Earn
 
-
-
 <details>
 
 <summary>In extreme market volatility scenarios, what is the risk exposure for bluSGD in loan pools that are funded?</summary>
@@ -574,6 +572,24 @@ One example is that a business in Philippines who is sending invoice and receivi
 bluSGD ability to track SGD remains the top priority of the protocol. The protocol will continue to ensure that we hold good quality collaterals against issued stablecoins, providing liquidity to trade them and be on top of crises that can potentially threaten its stability.
 
 In addition, once a loan pool is funded and the funds are drawn down, the borrowers would be off-ramping the stablecoins into fiat to deploy them for productive usage. During this time, the risk exposure to bluSGD is minimized.
+
+</details>
+
+<details>
+
+<summary>How does the platform ensure funds are safe?</summary>
+
+The platform makes no guarantees on the security of the funds and is provided as-is.&#x20;
+
+**Product Risk**
+
+Products on the platform are offered from the borrowers directly and Bluejay does not make guarantees on the accuracy of information nor on the deal itself.&#x20;
+
+Lenders are encouraged to perform due diligence on the borrower with information provided to ensure they understand the risk involved.&#x20;
+
+**Platform Risk**
+
+While we make the best attempt to eliminate platform risk and ensuring that the platform operates in predictable manner by undergoing code audit for major releases, we make no guarantees on the products.
 
 </details>
 
@@ -614,6 +630,18 @@ Information on the deal page are provided by the borrowers and are presented as 
 We plan on working with larger partners that are doing loan origination, so when we onboard a partner, they onboard potentially dozens of active deals. This works in favour of lenders as the risk is being spread out across multiple individual loans.
 
 The team also plans to make the process of creating decentralised loan pools much easier for all so that anyone will be able to raise funds for their needs.
+
+</details>
+
+<details>
+
+<summary>Is Earn licensed or regulated by any authorities?</summary>
+
+Earn is a decentralized marketplace for borrowers and lenders, itself is not licensed or regulated by any authorities.&#x20;
+
+Borrowers on the platform are encouraged to seek their own legal opinion when choosing to borrow funds on Earn.&#x20;
+
+Lenders on the platform are encouraged to perform their own due diligence on the different deals and the risk involved when dealing with unregulated product. And in cases where the product is offered in a regulated environment, to fully understand what that means for you.
 
 </details>
 

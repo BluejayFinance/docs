@@ -1,6 +1,6 @@
 # Loan Lifecycle
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Overview of the loan lifecycle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Overview of the loan lifecycle</p></figcaption></figure>
 
 Loan pools are created by borrowers with specific loan terms and will transit to and from different state which defines the type of action available to both investors and borrower. Below are the description of the different states of the loan pool:
 

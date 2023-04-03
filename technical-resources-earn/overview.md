@@ -1,6 +1,6 @@
 # Overview
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Architecture of the Earn product</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Architecture of Earn</p></figcaption></figure>
 
 ### Overview
 
@@ -35,3 +35,11 @@ This is a flavour of the CreditLineTemplate which allows the borrower to pay bac
 #### LoanPoolViewer
 
 The viewer contract is a utility contract that frontends can use to quickly access information on the loan pool. It returns data from the loan pool, credit line, and funding asset.
+
+#### LoanPoolRouter
+
+The router contract provides a single interface for lenders to fund the different loan pools and separately acts as an indexer of all the loan pools participated by the lender. It also allow relayers to help lenders execute a funding transaction if the lender has approved it off-chain.
+
+#### LoanPoolMetadata
+
+The metadata contract allows borrowers to register a metadata URI to the loan pool. The metadata URI is used to populate the data on the product information page of the loan pool.

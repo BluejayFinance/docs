@@ -1,28 +1,8 @@
 # Table of contents
 
-* [Bluejay Finance Overview](README.md)
-* [Roadmap](roadmap.md)
-
-## What can I Do?
-
-* [Stake BLU](what-can-i-do/stake-blu.md)
-* [Earn bluStables](what-can-i-do/earn-blustables.md)
-* [Bond Assets](what-can-i-do/bond-assets.md)
-
-## bluStables - Core Concepts
-
-* [Overview](blustables-core-concepts/overview.md)
-* [Treasury Bonds](blustables-core-concepts/treasury-bonds.md)
-* [Stabilizing Bond](blustables-core-concepts/stabilizing-bond.md)
-* [Stablecoin Minting](blustables-core-concepts/stablecoin-minting.md)
-* [Price Stabilizer](blustables-core-concepts/price-stabilizer.md)
-* [Collateralization](blustables-core-concepts/collateralization.md)
-* [Oracle](blustables-core-concepts/oracle.md)
-* [Protocol Comparison](blustables-core-concepts/protocol-comparison.md)
-
 ## Bluejay Earn - Core Concepts
 
-* [Overview](bluejay-earn-core-concepts/overview.md)
+* [Overview](README.md)
 * [Investors](bluejay-earn-core-concepts/investors.md)
 * [Borrowers](bluejay-earn-core-concepts/borrowers.md)
 * [Loan Terms](bluejay-earn-core-concepts/loan-terms.md)
@@ -41,25 +21,11 @@
 * [Earning Yield with bluSGD](user-guides/investing-blusgd/README.md)
   * [Investing funds in a loan pool](user-guides/earning-yield-with-blusgd/investing-funds-in-a-loan-pool.md)
   * [Withdrawing funds from a loan pool](user-guides/earning-yield-with-blusgd/withdrawing-funds-from-a-loan-pool.md)
-* [Buying Treasury Bonds](user-guides/buying-treasury-bonds/README.md)
-  * [Buying DAI Treasury Bonds](user-guides/buying-treasury-bonds/buying-bonds.md)
-  * [Buying BLU/DAI Treasury Bonds](user-guides/buying-treasury-bonds/getting-dai-blu-lp-tokens.md)
-  * [Buying bluSGD/DAI Treasury Bonds](user-guides/buying-treasury-bonds/getting-dai-blusgd-lp-tokens.md)
-* [Buying Stabilizing Bonds](user-guides/buying-stabilizing-bonds/README.md)
-  * [Buying bluSGD/DAI Stabilizing Bonds](user-guides/buying-stabilizing-bonds/buying-blusgd-dai-stabilizing-bonds.md)
-* [Redeeming Bonds](user-guides/redeeming-bonds.md)
-* [Buying and selling BLU](user-guides/buying-and-selling-blu.md)
-* [Staking BLU](user-guides/staking-blu.md)
 * [Opening Support Ticket on Discord](user-guides/opening-support-ticket-on-discord.md)
 
 ***
 
 * [Frequently Asked Questions](frequently-asked-questions/README.md)
-
-## Technical Resources - Stablecoin
-
-* [Overview](smart-contract/overview.md)
-* [Code Audit](smart-contract/code-audit.md)
 
 ## Technical Resources - Earn
 

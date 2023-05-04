@@ -50,7 +50,7 @@ Key in any amount of xSGD to swap and click on “**Review Swap**”
 
 ![](../../.gitbook/assets/8.png)
 
-****
+
 
 ### **Swap out bluSGD to xSGD**
 

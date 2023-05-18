@@ -3,7 +3,7 @@
 ### Summary
 
 * Bluejay Earn is a decentralised fixed income protocol that helps investors get access to diversified, and consistent returns of 7%+ APY by lending out stablecoins to borrowers.
-* Investors can participate in any loan pool available to lend out their bluSGD, without minimum capital requirement, to borrowers at a fixed interest rate over the duration of that borrower pool.
+* Investors can participate in any loan pool available to lend out their stablecoins, without minimum capital requirement, to borrowers at a fixed interest rate over the duration of that borrower pool.
 * Borrowers can directly raise funds from investors by creating loan pools and leverage DeFi as a source of efficient capital.
 
 ### Key Problems
@@ -24,7 +24,7 @@ Bluejay is on a mission to tackle the credit gap problem in Asia by building a d
 
 Bluejay Earn matches the demand for capital from small businesses across Asia with the supply of capital from investors who are looking to generate consistent returns from real economic activities. This creates a win-win situation for both parties, as small businesses are able to access the financing they need to grow, and investors are able to generate consistent returns from a diversified portfolio of investments.
 
-<figure><img src="../.gitbook/assets/Frame 48098955.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 48098955.jpg" alt=""><figcaption></figcaption></figure>
 
 Bluejay is focused on empowering emerging market economies by providing a platform that is accessible to both investors and borrowers. With Bluejay Earn, investors will have access to opportunities that are typically not available to them. This gives them the chance to invest in real economic activity, generate a sustainable return, and make a positive impact on the world. Borrowers, on the other hand, will be able to raise capital through Bluejay Earn, giving them the resources they need to take their businesses to the next level.
 
@@ -32,6 +32,6 @@ Bluejay is focused on empowering emerging market economies by providing a platfo
 
 The protocol depends on two groups of stakeholders, the lenders and borrowers
 
-**Investors** provide capital by lending their bluSGD stablecoins into various lending opportunities (“Loan Pools”). This enables investors to earn fixed interest rate on the stablecoins that they have lent out.
+**Investors** provide capital by lending their stablecoins into various lending opportunities (“Loan Pools”). This enables investors to earn fixed interest rate on the stablecoins that they have lent out.
 
-**Borrowers** propose and raise capital by creating borrower pools in which the investors can deposit their bluSGD stablecoins. Borrowers generate yield for investors from real productive usage to accelerate their economic growth.
+**Borrowers** propose and raise capital by creating borrower pools in which the investors can deposit their stablecoins. Borrowers generate yield for investors from real productive usage to accelerate their economic growth.

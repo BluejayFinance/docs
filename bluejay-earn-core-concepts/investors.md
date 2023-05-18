@@ -1,6 +1,6 @@
 ---
 description: >-
-  Investors lend bluSGD to borrowers. Investors look across various
+  Investors lend stablecoins to borrowers. Investors look across various
   opportunities available and may participate in any loan pool after evaluating
   the information
 ---
@@ -9,11 +9,11 @@ description: >-
 
 ### Who can be a lender?
 
-Bluejay Earn enables anyone holding bluSGD to become an investor ("lender"). Whether you're living in a developed market with investment opportunities still outside of your reach, in an emerging market with limited selection of financial products or in a country with restrictive capital controls, Bluejay Earn provides a way for you to diversify your portfolio in a sustainable way.
+Bluejay Earn enables anyone holding stablecoins to become an investor ("lender"). Whether you're living in a developed market with investment opportunities still outside of your reach, in an emerging market with limited selection of financial products or in a country with restrictive capital controls, Bluejay Earn provides a way for you to diversify your portfolio in a sustainable way.
 
 ### How does it work?
 
-In order to participate in any of the opportunities, investors can get access to bluSGD (For instructions, refer to this article - [buying and selling bluSGD](../user-guides/buying-and-selling-blusgd/)). Once bluSGD is in their wallets, they may select any of the opportunities available for them to invest via the dApp.
+In order to participate in any of the opportunities, investors can get access to stablecoins (For example, refer to this article - [buying and selling bluSGD](../user-guides/buying-and-selling-blusgd/)). Once the stablecoin is in their wallets, they may select any of the opportunities available for them to invest via the dApp.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Access to various lending opportunities on Bluejay Earn</p></figcaption></figure>
 

@@ -25,7 +25,7 @@ During the beta phase of the protocol, Bluejay Earn may facilitate the onboardin
 
 ## Flow of Funds
 
-Investors will be depositing their funds directly into a borrower pool using bluSGD stablecoins. Borrowers will interact with the protocol to withdraw funds (deployment) or to deposit funds (repayment) using bluSGD stablecoins. Refer to the following diagram to understand the high-level workflow. Note that specific flow of funds documents can be found in the dataroom of each borrower pool.
+Investors will be depositing their funds directly into a borrower pool using stablecoins. Borrowers will interact with the protocol to withdraw funds (deployment) or to deposit funds (repayment) using stablecoins. Refer to the following diagram to understand the high-level workflow. Note that specific flow of funds documents can be found in the dataroom of each borrower pool.
 
 <figure><img src="https://lh3.googleusercontent.com/uZM0ftdPvym8LD1vrQAzD3x2EsDkptI8tHTHqFjE87wWyZOVUw65VosoYBmgxKHShO_F_q9Lj1kyHcclIQTjPUSlH6SqSO_TJefRDLgYThxAoF_hrJSO3xDIvIwvnGcIN8OlRUA-r2g-zGAbZXFHMVQ" alt=""><figcaption></figcaption></figure>
 

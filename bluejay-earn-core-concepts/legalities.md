@@ -31,13 +31,13 @@ Investors will be depositing their funds directly into a borrower pool using sta
 
 ### Off-ramp into Fiat
 
-When the loan pool is fully funded, borrowers can access the funds by withdrawing from the pool. In order to off-ramp the funds into fiat, borrowers can use our [Peg Stability Module](https://docs.bluejay.finance/faq/mainnet-user-guides/peg-stability-module-psm) to swap bluSGD into xSGD and use [StraitsX’s business account](https://www.straitsx.com/business-account) to off ramp into fiat SGD.
+When the loan pool is fully funded, borrowers can access the funds by withdrawing from the pool. In order to off-ramp the funds into fiat, borrowers can swap the stablecoin into xSGD and use [StraitsX’s business account](https://www.straitsx.com/business-account) to off ramp into fiat SGD.
 
-For borrowers who prefer to withdraw their funds in USD, they may also convert bluSGD to USDC using Uniswap (underlying route: bluSGD <> DAI <> USDC) and use any preferred exchange or even [StraitsX](https://www.straitsx.com/blog-post/product-usdc-usd-transfers-are-now-supported) to withdraw funds in USD.
+For borrowers who prefer to withdraw their funds in USD, they may also use any preferred exchange or even [StraitsX](https://www.straitsx.com/blog-post/product-usdc-usd-transfers-are-now-supported) to withdraw funds in USD.
 
 ### On-ramp from Fiat
 
-In order to on-ramp from fiat into bluSGD to repay for loans, borrowers can follow the process in reverse. They can use either StraitsX or any exchange of choice to convert SGD/USD fiat into xSGD. They would then be able to convert xSGD into bluSGD using our Peg Stability Module and proceed with their repayment.
+In order to on-ramp from fiat into stablecoins to repay for loans, borrowers can follow the process in reverse. They can use either StraitsX or any exchange of choice to convert SGD/USD fiat into stablecoins (xSGD or USDC).
 
 ## Legal Structure
 

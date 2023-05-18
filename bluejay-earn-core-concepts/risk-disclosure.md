@@ -15,6 +15,6 @@ Investing in alternative investment opportunities is a high risk endeavour. Inve
 
 **Incomplete information**: Information and data presented by the borrowers may not be complete and accurate. There may be some information related to the borrower or its underlying collateral which may not be shared due to confidentiality which otherwise may have material adverse impact. The protocol, as a platform, is not obligated to ensure accuracy and completeness of the information.
 
-**Smart contract risk**: The smart contracts being used are unaudited during the beta stage and are of highly experimental nature. You should not interact with the protocol unless you fully understand how it works, and the consequences of transactions carried out with the use of the protocol.
+**Smart contract risk**: Although the smart contracts have been audited, they inherently possess risks due to their experimental nature. You should not interact with the protocol unless you fully understand how it works, and the consequences of transactions carried out with the use of the protocol.
 
 **Stablecoin risk**: Cryptocurrencies are volatile, risky, and experimental in nature. Even when dealing with stablecoins, you are encouraged to understand how the stability mechanism of the stablecoin in use works. While stablecoins tend to be less volatile, they still carry risk and could lose their entire market capitalization.

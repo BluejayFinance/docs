@@ -1,6 +1,6 @@
 ---
 description: >-
-  This tutorial walks you through how you can invest bluSGD in various pools
+  This tutorial walks you through how you can invest stablecoin in various pools
   available on Bluejay Earn.
 ---
 
@@ -8,20 +8,13 @@ description: >-
 
 {% @arcade/embed flowId="yHdpHrjeD9ooXsQcAK5V" url="https://app.arcade.software/share/yHdpHrjeD9ooXsQcAK5V" %}
 
-Investors can lend bluSGD to borrowers through Bluejay Earn. Investors look across various opportunities available and may participate in any borrower pool after evaluating the information available. For more information, the following documentation on [how Earn works](broken-reference) might be helpful.
+Investors can lend stablecoins to borowers through Bluejay Earn. Investors look across various opportunities available and may participate in any borrower pool after evaluating the information available. For more information, the following documentation on [how Earn works](broken-reference) might be helpful.
 
-### **Before Investing bluSGD**
 
-Before investing bluSGD, it is important to first connect your wallet to the Bluejay Finance dapp and ensure that you have bluSGD in your wallet.
-
-Follow these guides if you haven’t already done so:
-
-* [Connecting Your Wallet](https://docs.bluejay.finance/user-guides/connecting-your-wallet)
-* [Buying bluSGD](https://docs.bluejay.finance/user-guides/buying-and-selling-blusgd)
 
 ### **Navigating to Bluejay Earn**
 
-Once you have bluSGD in your wallet, let’s go to “**Earn**” in the left menu or head over directly to the link: [https://app.bluejay.finance/earn](https://app.bluejay.finance/lend).
+Once you have connected your wallet, let’s go to “**Earn**” in the left menu or head over directly to the link: [https://app.bluejay.finance/](https://app.bluejay.finance/).
 
 \
 Once you land on Earn page, you will be able to find different loan pools available for investing.

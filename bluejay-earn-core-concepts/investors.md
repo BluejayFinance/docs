@@ -13,7 +13,7 @@ Bluejay Earn enables anyone holding stablecoins to become an investor ("lender")
 
 ### How does it work?
 
-In order to participate in any of the opportunities, investors can get access to stablecoins (For example, refer to this article - [buying and selling bluSGD](../user-guides/buying-and-selling-blusgd/)). Once the stablecoin is in their wallets, they may select any of the opportunities available for them to invest via the dApp.
+In order to participate in any of the opportunities, investors can get access to stablecoins (For example, refer to this article - [buying and selling bluSGD](broken-reference)). Once the stablecoin is in their wallets, they may select any of the opportunities available for them to invest via the dApp.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Access to various lending opportunities on Bluejay Earn</p></figcaption></figure>
 

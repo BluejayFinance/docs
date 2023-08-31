@@ -42,7 +42,7 @@ In this state, investors are unable to perform any action other than waiting for
 
 Borrowers will be able to drawdown the assets from the loan pool at any point after the minimum amount of funds is raised. Once the borrower initiates the drawdown process a few things will happen:
 
-* All funds raised in the pool will be transferred to the borrower, minus any [fees](fees.md)
+* All funds raised in the pool will be transferred to the borrower, minus any [fees](broken-reference)
 * Investors will no longer be able to add more funds into the pool
 * Interest calculation will start at this point, not before
 * Borrowers will have to make their first repayment after one period from this point in time

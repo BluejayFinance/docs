@@ -8,7 +8,6 @@
 * [Loan Terms](bluejay-earn-core-concepts/loan-terms.md)
 * [Types of Loan Pools](bluejay-earn-core-concepts/types-of-loan-pools.md)
 * [Loan Lifecycle](bluejay-earn-core-concepts/loan-lifecycle.md)
-* [Fees](bluejay-earn-core-concepts/fees.md)
 * [Legalities](bluejay-earn-core-concepts/legalities.md)
 * [Risk Disclosure](bluejay-earn-core-concepts/risk-disclosure.md)
 
@@ -34,4 +33,4 @@
 
 ***
 
-* [bluStables](http://localhost:5000/o/-MhONg5U-2Qv10L9Rmt5/s/QZXOrEWBrpvMUgluf2Dj/)
+* [bluStables](http://127.0.0.1:5000/o/-MhONg5U-2Qv10L9Rmt5/s/QZXOrEWBrpvMUgluf2Dj/)
